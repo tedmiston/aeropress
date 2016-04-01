@@ -6,12 +6,12 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 Company      | Inverted | Page | Published | Comments
 ------------ | -------- | ---- | --------- | --------
-Aerobie      | no       | [aerobie.com (pdf)](http://www.aerobie.com/wp-content/uploads/2016/03/AeroPress-Instr-English-Rev.-D2.pdf) | Mar. 2016 |
-Blue Bottle  | yes      | [bluebottlecoffee.com](https://bluebottlecoffee.com/preparation-guides/aeropress) | Dec. 2013 |
-Craft Coffee | yes      | [craftcoffee.com](https://www.craftcoffee.com/how-to-make-coffee/aeropress-brew-guide) | Mar. 2014 |
-Stumptown    | no       | [stumptowncoffee.com](https://www.stumptowncoffee.com/brew-guides/aeropress/) | June 2015 |
-Stumptown    | yes      | [archive.org](https://web.archive.org/web/20150412190314/http://stumptowncoffee.com/brew-guides/aeropress/) | Jan. 2013 | Stumptown originally recommended inverted style, but [switched](https://www.reddit.com/r/Coffee/comments/3i9kev/stumptown_inverted_method/) sometime in 2015.
-Stumptown    | no       | [vimeo.com (video)](https://vimeo.com/126614296) | May 2015 |
+Aerobie      | no       | [aerobie.com (pdf)][5] | Mar. 2016 |
+Blue Bottle  | yes      | [bluebottlecoffee.com][6] | Dec. 2013 |
+Craft Coffee | yes      | [craftcoffee.com][7] | Mar. 2014 |
+Stumptown    | no       | [stumptowncoffee.com][8] | June 2015 |
+Stumptown    | yes      | [archive.org][9] | Jan. 2013 | Stumptown originally recommended inverted style, but [switched][10] sometime in 2015.
+Stumptown    | no       | [vimeo.com (video)][11] | May 2015 |
 
 ## Filters
 
@@ -27,3 +27,10 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [2]: http://ablebrewing.com/products/gold-disk-coffee-filter-for-aeropress
 [3]: http://www.aerobie.com/product/aeropress/
 [4]: http://www.aerobie.com/aeropress/faqs/#filter-questions
+[5]: http://www.aerobie.com/wp-content/uploads/2016/03/AeroPress-Instr-English-Rev.-D2.pdf
+[6]: https://bluebottlecoffee.com/preparation-guides/aeropress
+[7]: https://www.craftcoffee.com/how-to-make-coffee/aeropress-brew-guide
+[8]: https://www.stumptowncoffee.com/brew-guides/aeropress/
+[9]: https://web.archive.org/web/20150412190314/http://stumptowncoffee.com/brew-guides/aeropress/
+[10]: https://www.reddit.com/r/Coffee/comments/3i9kev/stumptown_inverted_method/
+[11]: https://vimeo.com/126614296

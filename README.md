@@ -10,8 +10,8 @@ Aerobie      | no       | [aerobie.com (pdf)][5] | Mar. 2016 |
 Blue Bottle  | yes      | [bluebottlecoffee.com][6] | Dec. 2013 |
 Craft Coffee | yes      | [craftcoffee.com][7] | Mar. 2014 |
 Stumptown    | no       | [stumptowncoffee.com][8] | June 2015 |
-Stumptown    | yes      | [archive.org][9] | Jan. 2013 | Stumptown originally recommended inverted style, but [switched][10] sometime in 2015.
 Stumptown    | no       | [vimeo.com (video)][11] | May 2015 |
+Stumptown    | yes      | [archive.org][9] | Jan. 2013 | Stumptown originally recommended inverted style, but [switched][10] sometime in 2015.
 
 ## Filters
 

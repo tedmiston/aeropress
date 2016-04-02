@@ -7,6 +7,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 Company                | Inverted | Page                            | Published  | Comments
 ---------------------- | -------- | ------------------------------- | ---------- | --------
 Aerobie                | no       | [aerobie.com (pdf)][5]          | Mar. 2016  |
+Aerobie (Alan Adler)   | no       | [wistia.net (video)][13]        |            | Similar to the official guide but with additional commentary from AeroPress founder, Alan Adler.  Video created by Prima Coffee.
 Blue Bottle            | yes      | [bluebottlecoffee.com][6]       | Dec. 2013  |
 Brick & Mortar Coffee  | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014  | Pressing out air before steeping is unique.
 Craft Coffee           | yes      | [craftcoffee.com][7]            | Mar. 2014  |
@@ -36,3 +37,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [10]: https://www.reddit.com/r/Coffee/comments/3i9kev/stumptown_inverted_method/ "Stumptown inverted method. : Coffee"
 [11]: https://vimeo.com/126614296 "How to Brew Coffee in an AeroPress on Vimeo"
 [12]: http://www.brickandmortarcoffee.com/brewing-guide/aeropress/
+[13]: http://fast.wistia.net/embed/iframe/3ebe8ppoq9

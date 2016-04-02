@@ -11,6 +11,7 @@ Aerobie (Alan Adler)   | no       | [wistia.net (video)][13]        |           
 Blue Bottle            | yes      | [bluebottlecoffee.com][6]       | Dec. 2013  |
 Brick & Mortar Coffee  | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014  | Pressing out air before steeping is unique.
 Craft Coffee           | yes      | [craftcoffee.com][7]            | Mar. 2014  |
+Prima Coffee Equipment (Chris Elliott) | no | [wistia.net (video)][14] | | A simplified version of the recipe used by Jesse Myers (Quills Coffee) in the Big Eastern Brewers Cup.
 Stumptown              | no       | [stumptowncoffee.com][8]        | June 2015  |
 Stumptown              | no       | [vimeo.com (video)][11]         | May 2015   |
 Stumptown              | yes      | [archive.org][9]                | Jan. 2013  | Stumptown originally recommended inverted style, but [switched][10] sometime in 2015.
@@ -38,3 +39,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [11]: https://vimeo.com/126614296 "How to Brew Coffee in an AeroPress on Vimeo"
 [12]: http://www.brickandmortarcoffee.com/brewing-guide/aeropress/
 [13]: http://fast.wistia.net/embed/iframe/3ebe8ppoq9
+[14]: http://fast.wistia.net/embed/iframe/8jvhusg329

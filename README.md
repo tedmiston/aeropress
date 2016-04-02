@@ -8,6 +8,7 @@ Company      | Inverted | Page | Published | Comments
 ------------ | -------- | ---- | --------- | --------
 Aerobie      | no       | [aerobie.com (pdf)][5] | Mar. 2016 |
 Blue Bottle  | yes      | [bluebottlecoffee.com][6] | Dec. 2013 |
+Brick & Mortar Coffee | yes | [brickandmortarcoffee.com][12] | Aug. 2014 | Pressing out air before steeping is unique.
 Craft Coffee | yes      | [craftcoffee.com][7] | Mar. 2014 |
 Stumptown    | no       | [stumptowncoffee.com][8] | June 2015 |
 Stumptown    | no       | [vimeo.com (video)][11] | May 2015 |
@@ -34,3 +35,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [9]: https://web.archive.org/web/20150412190314/http://stumptowncoffee.com/brew-guides/aeropress/ "Aeropress - Stumptown Coffee Roasters"
 [10]: https://www.reddit.com/r/Coffee/comments/3i9kev/stumptown_inverted_method/ "Stumptown inverted method. : Coffee"
 [11]: https://vimeo.com/126614296 "How to Brew Coffee in an AeroPress on Vimeo"
+[12]: http://www.brickandmortarcoffee.com/brewing-guide/aeropress/

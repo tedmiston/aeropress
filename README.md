@@ -4,18 +4,18 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ## Guides
 
-Company                                 | Inverted | Page                            | Published  | Comments
---------------------------------------- | -------- | ------------------------------- | ---------- | --------
-Aerobie                                 | no       | [aerobie.com (pdf)][5]          | Mar. 2016  |
-Aerobie (Alan Adler)                    | no       | [wistia.net (video)][13]        |            | Similar to the official guide but with additional commentary from AeroPress founder, Alan Adler.  Video created by Prima Coffee.
-Blue Bottle                             | yes      | [bluebottlecoffee.com][6]       | Dec. 2013  |
-Brick & Mortar Coffee                   | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014  | Pressing out air before steeping is unique.
-Craft Coffee                            | yes      | [craftcoffee.com][7]            | Mar. 2014  |
-Has Bean                                | yes      | [hasbean.co.uk][15]             |            | Encouraging British commentary.  Conversion: 80–85 °C = 176–185 °F.
-Prima Coffee Equipment (Chris Elliott)  | no       | [wistia.net (video)][14]        |            | A simplified version of the recipe used by Jesse Myers (Quills Coffee) in the Big Eastern Brewers Cup.
-Stumptown                               | no       | [stumptowncoffee.com][8]        | June 2015  |
-Stumptown                               | no       | [vimeo.com (video)][11]         | May 2015   |
-Stumptown                               | yes      | [archive.org][9]                | Jan. 2013  | Stumptown originally recommended inverted style, but [switched][10] sometime in 2015.
+Company                 | Individual     | Inverted | Page                            | Published  | Comments
+----------------------- | -------------- | -------- | ------------------------------- | ---------- | --------
+Aerobie                 |                | no       | [aerobie.com (pdf)][5]          | Mar. 2016  |
+Aerobie                 | Alan Adler     | no       | [wistia.net (video)][13]        |            | Similar to the official guide but with additional commentary from AeroPress founder, Alan Adler.  Video created by Prima Coffee.
+Blue Bottle             |                | yes      | [bluebottlecoffee.com][6]       | Dec. 2013  |
+Brick & Mortar Coffee   |                | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014  | Pressing out air before steeping is unique.
+Craft Coffee            |                | yes      | [craftcoffee.com][7]            | Mar. 2014  |
+Has Bean                |                | yes      | [hasbean.co.uk][15]             |            | Encouraging British commentary.  Conversion: 80–85 °C = 176–185 °F.
+Prima Coffee Equipment  | Chris Elliott  | no       | [wistia.net (video)][14]        |            | A simplified version of the recipe used by Jesse Myers (Quills Coffee) in the Big Eastern Brewers Cup.
+Stumptown               |                | no       | [stumptowncoffee.com][8]        | June 2015  |
+Stumptown               |                | no       | [vimeo.com (video)][11]         | May 2015   |
+Stumptown               |                | yes      | [archive.org][9]                | Jan. 2013  | Stumptown originally recommended inverted style, but [switched][10] sometime in 2015.
 
 ## Filters
 

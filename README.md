@@ -12,6 +12,7 @@ Blue Bottle             |                | yes      | [bluebottlecoffee.com][6] 
 Brick & Mortar Coffee   |                | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014  | Pressing out air before steeping is unique.
 Craft Coffee            |                | yes      | [craftcoffee.com][7]            | Mar. 2014  |
 Has Bean                |                | yes      | [hasbean.co.uk][15]             |            | Encouraging British commentary.  Conversion: 80–85 °C = 176–185 °F.
+                        | Jesse Gordon   | yes      | [jesse.jpg][16]                 |            | Included in package with Able Disk Fine.
 Prima Coffee Equipment  | Chris Elliott  | no       | [wistia.net (video)][14]        |            | A simplified version of the recipe used by Jesse Myers (Quills Coffee) in the Big Eastern Brewers Cup.
 Stumptown               |                | no       | [stumptowncoffee.com][8]        | June 2015  |
 Stumptown               |                | no       | [vimeo.com (video)][11]         | May 2015   |
@@ -42,3 +43,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [13]: http://fast.wistia.net/embed/iframe/3ebe8ppoq9
 [14]: http://fast.wistia.net/embed/iframe/8jvhusg329
 [15]: http://www.hasbean.co.uk/blogs/brew-guides/5952485-aeropress-brew-guide
+[16]: /images/able-brewing/jesse.jpg

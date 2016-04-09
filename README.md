@@ -7,18 +7,18 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 Company                 | Individual     | Inverted | Page                            | Published  | Comments
 ----------------------: | -------------: | :------: | ------------------------------- | ---------- | --------
 Aerobie                 |                | no       | [aerobie.com (pdf)][5]          | Mar. 2016  |
-Aerobie                 | Alan Adler     | no       | [wistia.net (video)][13]        |            | Similar to the official guide but with additional commentary from AeroPress founder, Alan Adler.  Video created by Prima Coffee.
+Aerobie                 | Alan Adler     | no       | [wistia.net (video)][13]        |            | Official guide with additional commentary from AeroPress founder.  Video created by Prima Coffee.
 Blue Bottle             |                | yes      | [bluebottlecoffee.com][6]       | Dec. 2013  |
 Brick & Mortar Coffee   |                | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014  | Pressing out air before steeping is unique.
 Craft Coffee            |                | yes      | [craftcoffee.com][7]            | Mar. 2014  |
-Has Bean                |                | yes      | [hasbean.co.uk][15]             |            | Encouraging British commentary.  Conversion: 80–85 °C = 176–185 °F.
-                        | Jesse Gordon   | yes      | [jesse.jpg][16]                 |            | Included in package with Able Disk Fine.
-                        | Kanji Ino      | no       | [kanji.jpg][17]                 |            | Included in package with Able Disk.
+Has Bean                |                | yes      | [hasbean.co.uk][15]             |            | 80–85 °C = 176–185 °F.
+                        | Jesse Gordon   | yes      | [jesse.jpg][16]                 |            | Included with Able Disk Fine.
+                        | Kanji Ino      | no       | [kanji.jpg][17]                 |            | Included with Able Disk.
                         | Marco Arment   | no       | [marco.org][18]                 | July 2012  | Iced coffee.
-Prima Coffee Equipment  | Chris Elliott  | no       | [wistia.net (video)][14]        |            | A simplified version of the recipe used by Jesse Myers (Quills Coffee) in the Big Eastern Brewers Cup.
+Prima Coffee Equipment  | Chris Elliott  | no       | [wistia.net (video)][14]        |            | Simplified version of Jesse Myers' recipe (Quills Coffee) in the Big Eastern Brewers Cup.
 Stumptown               |                | no       | [stumptowncoffee.com][8]        | June 2015  |
 Stumptown               |                | no       | [vimeo.com (video)][11]         | May 2015   |
-Stumptown               |                | yes      | [archive.org][9]                | Jan. 2013  | Stumptown originally recommended inverted style, but [switched][10] sometime in 2015.
+Stumptown               |                | yes      | [archive.org][9]                | Jan. 2013  | Stumptown recommended inverted [until switching][10] in 2015.
 
 ## Filters
 

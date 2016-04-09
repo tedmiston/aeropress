@@ -24,7 +24,7 @@ Stumptown               |                | yes      | [archive.org][9]          
 Company | Product                                          | Material | Comments
 ------: | ------------------------------------------------ | :------: | --------
 Able    | [Disk Coffee Filter - Fine][1]                   | metal    | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard.
-Able    | [Disk Coffee Filter - Standard][1]               | metal    |
+Able    | [Disk Coffee Filter - Standard][1]               | metal    | Espresso grind [will clog it](https://marco.org/2012/01/11/aeropress-stainless-steel-filter).
 Able    | [Disk Coffee Filter (Gold Series) - Fine][2]     | metal    | Created for winners of barista competitions.  Coffee produced should be the same as non-gold version.
 Able    | [Disk Coffee Filter (Gold Series) - Standard][2] | metal    |
 Aerobie | [Micro-Filters][3]                               | paper    | In blind taste tests, paper filters [were preferred][4] over metal.

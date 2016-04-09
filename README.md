@@ -5,7 +5,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 ## Guides
 
 Company                 | Individual     | Inverted | Page                            | Published  | Comments
------------------------ | -------------- | -------- | ------------------------------- | ---------- | --------
+----------------------: | -------------: | :------: | ------------------------------- | ---------- | --------
 Aerobie                 |                | no       | [aerobie.com (pdf)][5]          | Mar. 2016  |
 Aerobie                 | Alan Adler     | no       | [wistia.net (video)][13]        |            | Similar to the official guide but with additional commentary from AeroPress founder, Alan Adler.  Video created by Prima Coffee.
 Blue Bottle             |                | yes      | [bluebottlecoffee.com][6]       | Dec. 2013  |
@@ -22,7 +22,7 @@ Stumptown               |                | yes      | [archive.org][9]          
 ## Filters
 
 Company | Product                                          | Material | Comments
-------- | ------------------------------------------------ | -------- | --------
+------: | ------------------------------------------------ | :------: | --------
 Able    | [Disk Coffee Filter - Fine][1]                   | metal    | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard.
 Able    | [Disk Coffee Filter - Standard][1]               | metal    |
 Able    | [Disk Coffee Filter (Gold Series) - Fine][2]     | metal    | Created for winners of barista competitions.  Coffee produced should be the same as non-gold version.

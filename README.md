@@ -30,6 +30,10 @@ Able    | [Disk Coffee Filter (Gold Series) - Fine][2]     | metal    | Created 
 Able    | [Disk Coffee Filter (Gold Series) - Standard][2] | metal    |
 Aerobie | [Micro-Filters][3]                               | paper    | In blind taste tests, paper filters [were preferred][4] over metal.
 
+## Misc.
+
+- [AeroPress "Ritual" (video)](https://vimeo.com/40980282) by Sandwich Video - No recipe, but production quality is high in this enjoyable tribute.
+
 [1]: http://ablebrewing.com/products/disk-coffee-filter "Disk Coffee Filter Designed for AeroPress®"
 [2]: http://ablebrewing.com/products/gold-disk-coffee-filter-for-aeropress "Gold Disk Coffee Filter Designed for AeroPress®"
 [3]: http://www.aerobie.com/product/aeropress/ "The Aerobie® AeroPress® Coffee Maker"

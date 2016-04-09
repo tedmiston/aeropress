@@ -19,6 +19,7 @@ Prima Coffee Equipment  | no       | [wistia.net (video)][14]        |          
 Stumptown               | no       | [stumptowncoffee.com][8]        | June 2015  |
 Stumptown               | no       | [vimeo.com (video)][11]         | May 2015   |
 Stumptown               | yes      | [archive.org][9]                | Jan. 2013  | Stumptown recommended inverted [until switching][10] in 2015.
+Tim Wendelboe           | no       | [timwendelboe.no][19]           | Oct. 2010  |
 
 ## Filters
 
@@ -52,3 +53,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [16]: /images/able-brewing/jesse.jpg
 [17]: /images/able-brewing/kanji.jpg
 [18]: https://marco.org/2012/07/30/iced-coffee-with-aeropress
+[19]: https://www.timwendelboe.no/aeropress-brewing-guide

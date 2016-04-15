@@ -9,6 +9,7 @@ Company or Person       | Inverted | Page                            | Published
 Aerobie                 | no       | [aerobie.com (pdf)][5]          | Mar. 2016  |
 Alan Adler              | no       | [wistia.net (video)][13]        |            | Official guide with additional commentary from AeroPress founder.  Video created by Prima Coffee.
 Blue Bottle             | yes      | [bluebottlecoffee.com][6]       | Dec. 2013  |
+[Brian Beyke][21]       | yes      | [instagram.com][20]             | Apr. 2016  | Brian also runs the podcast [*I Brew My Own Coffee*][22].
 Brick & Mortar Coffee   | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014  | Pressing out air before steeping is unique.
 Craft Coffee            | yes      | [craftcoffee.com][7]            | Mar. 2014  |
 Has Bean                | yes      | [hasbean.co.uk][15]             |            | 80–85 °C = 176–185 °F.
@@ -54,3 +55,6 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [17]: /images/able-brewing/kanji.jpg
 [18]: https://marco.org/2012/07/30/iced-coffee-with-aeropress
 [19]: https://www.timwendelboe.no/aeropress-brewing-guide
+[20]: https://www.instagram.com/p/BED8FEphwKZ/
+[21]: https://www.instagram.com/abandoncoffee/
+[22]: http://www.ibrewmyowncoffee.com/

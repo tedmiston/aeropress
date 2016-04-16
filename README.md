@@ -35,6 +35,7 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 ## Misc.
 
 - [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users.
+- [@chrisdrinkscoffee](http://instagram.com/chrisdrinkscoffee) - Shares a variety of recipes via Instagram posts.
 - [AeroPress "Ritual" (video)](https://vimeo.com/40980282) by Sandwich Video - No recipe, but production quality is high in this enjoyable tribute.
 
 [1]: http://ablebrewing.com/products/disk-coffee-filter "Disk Coffee Filter Designed for AeroPress®"

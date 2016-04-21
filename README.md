@@ -20,6 +20,7 @@ Jesse Gordon            | yes      | [jesse.jpg][16]                 |          
 Kanji Ino               | no       | [kanji.jpg][17]                 |             | Included with Able Disk.
 Marco Arment            | no       | [marco.org][18]                 | July 2012   | Iced coffee.
 Prima Coffee Equipment  | no       | [wistia.net (video)][14]        |             | Simplified version of Jesse Myers' recipe (Quills Coffee) in the Big Eastern Brewers Cup.
+Square Mile Coffee Roasters | no   | [squaremilecoffee.com][27]      |             |
 Stumptown               | no       | [stumptowncoffee.com][8]        | June 2015   |
 Stumptown               | no       | [vimeo.com (video)][11]         | May 2015    |
 Stumptown               | yes      | [archive.org][9]                | Jan. 2013   | Stumptown recommended inverted [until switching][10] in 2015.
@@ -67,3 +68,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [24]: http://www.crema-coffee.com/brewing-guide-iced-aeropress
 [25]: https://vimeo.com/140715216
 [26]: https://counterculturecoffee.com/learn/quick-easy-aeropress
+[27]: http://shop.squaremilecoffee.com/products/aeropress

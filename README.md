@@ -11,6 +11,7 @@ Alan Adler              | no       | [wistia.net (video)][13]        |          
 Blue Bottle             | yes      | [bluebottlecoffee.com][6]       | Dec. 2013   |
 [Brian Beyke][21]       | yes      | [instagram.com][20]             | Apr. 2016   | Brian also runs the podcast [*I Brew My Own Coffee*][22].
 Brick & Mortar Coffee   | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014   | Pressing out air before steeping is unique.
+Coffee Supreme          | yes      | [shopify.com (pdf)][30]         |             | See pages 12–13.  Also available as a [print book][31].
 Counter Culture Coffee  | yes      | [vimeo.com (video)][25]         | Sept. 2015  | Also available [in words][26].
 Craft Coffee            | yes      | [craftcoffee.com][7]            | Mar. 2014   |
 Crema Coffee Roasters   | yes      | [crema-coffee.com][23]          |             |
@@ -72,3 +73,5 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [27]: http://shop.squaremilecoffee.com/products/aeropress
 [28]: https://sightglasscoffee.com/brewing-guides/aeropress
 [29]: https://vimeo.com/62908498
+[30]: http://cdn.shopify.com/s/files/1/0172/5642/files/Brew_Guide_Online_version.pdf?12092
+[31]: https://www.coffeesupremeshop.com/products/brew-guide-by-coffee-supreme

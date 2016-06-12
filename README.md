@@ -18,6 +18,7 @@ Counter Culture Coffee  | yes      | [vimeo.com (video)][25]         | Sept. 201
 Craft Coffee            | yes      | [craftcoffee.com][7]            | Mar. 2014   |
 Crema Coffee Roasters   | yes      | [crema-coffee.com][23]          |             |
 Crema Coffee Roasters   | yes      | [crema-coffee.com][24]          |             | Iced coffee.
+Everyman Espresso       | yes      | [nytimes.com][37]               | Oct. 2010   | Recipe is at the bottom of the article.
 Has Bean                | yes      | [hasbean.co.uk][15]             |             | 80–85 °C = 176–185 °F.
 Heart Coffee            | no       | [heartroasters.com][33]         | Nov. 2013   | Also as [pdf][34] or [video][35].
 Jesse Gordon            | yes      | [jesse.jpg][16]                 |             | Included with Able Disk Fine.
@@ -83,3 +84,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [34]: https://cdn.shopify.com/s/files/1/0261/3485/files/aeropress.pdf
 [35]: https://vimeo.com/80575765
 [36]: http://coavacoffee.com/blogs/news/9853248-aeropress
+[37]: http://tmagazine.blogs.nytimes.com/2010/10/28/ristretto-aeropress/

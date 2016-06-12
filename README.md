@@ -18,6 +18,7 @@ Craft Coffee            | yes      | [craftcoffee.com][7]            | Mar. 2014
 Crema Coffee Roasters   | yes      | [crema-coffee.com][23]          |             |
 Crema Coffee Roasters   | yes      | [crema-coffee.com][24]          |             | Iced coffee.
 Has Bean                | yes      | [hasbean.co.uk][15]             |             | 80–85 °C = 176–185 °F.
+Heart Coffee            | no       | [heartroasters.com][33]         | Nov. 2013   | Also as [pdf][34] or [video][35].
 Jesse Gordon            | yes      | [jesse.jpg][16]                 |             | Included with Able Disk Fine.
 Kanji Ino               | no       | [kanji.jpg][17]                 |             | Included with Able Disk.
 Marco Arment            | no       | [marco.org][18]                 | July 2012   | Iced coffee.
@@ -77,3 +78,6 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [30]: http://cdn.shopify.com/s/files/1/0172/5642/files/Brew_Guide_Online_version.pdf?12092
 [31]: https://www.coffeesupremeshop.com/products/brew-guide-by-coffee-supreme
 [32]: http://www.brewingisforeveryone.com/blog/inverted-aeropress
+[33]: http://www.heartroasters.com/pages/aeropress
+[34]: https://cdn.shopify.com/s/files/1/0261/3485/files/aeropress.pdf
+[35]: https://vimeo.com/80575765

@@ -30,6 +30,7 @@ Square Mile Coffee Roasters | no   | [squaremilecoffee.com][27]      |          
 Stumptown               | no       | [stumptowncoffee.com][8]        | June 2015   |
 Stumptown               | no       | [vimeo.com (video)][11]         | May 2015    |
 Stumptown               | yes      | [archive.org][9]                | Jan. 2013   | Stumptown recommended inverted [until switching][10] in 2015.
+The Coffee Collective   | yes      | [blogspot.com][38]              | Jan. 2010   | Inspired by Tim Wendelboe
 Tim Wendelboe           | no       | [timwendelboe.no][19]           | Oct. 2010   |
 
 ## Filters
@@ -85,3 +86,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [35]: https://vimeo.com/80575765
 [36]: http://coavacoffee.com/blogs/news/9853248-aeropress
 [37]: http://tmagazine.blogs.nytimes.com/2010/10/28/ristretto-aeropress/
+[38]: http://coffeecollective.blogspot.com/2010/01/updated-aeropress-brewing-method.html

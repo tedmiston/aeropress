@@ -12,6 +12,7 @@ Blue Bottle             | yes      | [bluebottlecoffee.com][6]       | Dec. 2013
 [Brian Beyke][21]       | yes      | [instagram.com][20]             | Apr. 2016   | Brian also runs the podcast [*I Brew My Own Coffee*][22].
 Brewing is for Everyone | yes      | [brewingisforeveryone.com][32]  | May 2016    |
 Brick & Mortar Coffee   | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014   | Pressing out air before steeping is unique.
+Coava Coffee            | yes      | [coavacoffee.com][36]           | Nov. 2013   |
 Coffee Supreme          | yes      | [shopify.com (pdf)][30]         |             | See pages 12–13.  Also available as a [print book][31].
 Counter Culture Coffee  | yes      | [vimeo.com (video)][25]         | Sept. 2015  | Also available [in words][26].
 Craft Coffee            | yes      | [craftcoffee.com][7]            | Mar. 2014   |
@@ -81,3 +82,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [33]: http://www.heartroasters.com/pages/aeropress
 [34]: https://cdn.shopify.com/s/files/1/0261/3485/files/aeropress.pdf
 [35]: https://vimeo.com/80575765
+[36]: http://coavacoffee.com/blogs/news/9853248-aeropress

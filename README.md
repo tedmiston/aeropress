@@ -25,6 +25,7 @@ Has Bean                | yes      | [hasbean.co.uk][15]             |          
 Heart Coffee            | no       | [heartroasters.com][33]         | Nov. 2013   | Also as [pdf][34] or [video][35].
 Jesse Gordon            | yes      | [jesse.jpg][16]                 |             | Included with Able Disk Fine.
 Kanji Ino               | no       | [kanji.jpg][17]                 |             | Included with Able Disk.
+Lukas Zahradnik         | yes      | [europeancoffeetrip.com][41]    | June 2015   | World AeroPress Championship 2015, 1st Place.  Also as [video][42].
 Marco Arment            | no       | [marco.org][18]                 | July 2012   | Iced coffee.
 Prima Coffee Equipment  | no       | [wistia.net (video)][14]        |             | Simplified version of Jesse Myers' recipe (Quills Coffee) in the Big Eastern Brewers Cup.
 Sightglass Coffee       | no       | [sightglasscoffee.com][28]      |             | Great illustrations.  Also available as a [video][29].
@@ -91,3 +92,5 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [38]: http://coffeecollective.blogspot.com/2010/01/updated-aeropress-brewing-method.html
 [39]: https://www.youtube.com/watch?v=labOnf2gudg
 [40]: https://alternativebrewing.com.au/brew-tips/aeropress-brew-tips/
+[41]: http://europeancoffeetrip.com/how-to-make-aeropress-2015-champion/
+[42]: https://www.youtube.com/watch?v=m3wKJ0-WkDA

@@ -8,6 +8,7 @@ Company or Person       | Inverted | Page                            | Published
 ----------------------: | :------: | ------------------------------- | ----------- | --------
 Aerobie                 | no       | [aerobie.com (pdf)][5]          | Mar. 2016   |
 Alan Adler              | no       | [wistia.net (video)][13]        |             | Official guide with additional commentary from AeroPress founder.  Video created by Prima Coffee.
+Alternative Brewing     | yes      | [alternativebrewing.com.au][40] |             | Multiple different brewing guides on one page; scroll to *Making an AeroPress Coffee – Inverted Method*.
 Blue Bottle             | yes      | [bluebottlecoffee.com][6]       | Dec. 2013   |
 [Brian Beyke][21]       | yes      | [instagram.com][20]             | Apr. 2016   | Brian also runs the podcast [*I Brew My Own Coffee*][22].
 Brewing is for Everyone | yes      | [brewingisforeveryone.com][32]  | May 2016    |
@@ -89,3 +90,4 @@ Aerobie | [Micro-Filters][3]                               | paper    | In blind
 [37]: http://tmagazine.blogs.nytimes.com/2010/10/28/ristretto-aeropress/
 [38]: http://coffeecollective.blogspot.com/2010/01/updated-aeropress-brewing-method.html
 [39]: https://www.youtube.com/watch?v=labOnf2gudg
+[40]: https://alternativebrewing.com.au/brew-tips/aeropress-brew-tips/

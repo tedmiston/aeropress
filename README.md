@@ -7,10 +7,10 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 Company or Person       | Inverted | Page                            | Published   | Comments
 ----------------------: | :------: | ------------------------------- | ----------- | --------
 Aerobie                 | no       | [aerobie.com (pdf)][5]          | Mar. 2016   |
-Alan Adler              | no       | [wistia.net (video)][13]        |             | Official guide with additional commentary from AeroPress founder.  Video created by Prima Coffee.
+Alan Adler              | no       | [wistia.net (video)][13]        |             | Official guide with commentary from AeroPress founder.  Video by Prima Coffee.
 Alternative Brewing     | yes      | [alternativebrewing.com.au][40] |             | Multiple different brewing guides on one page; scroll to *Making an AeroPress Coffee – Inverted Method*.
 Blue Bottle             | yes      | [bluebottlecoffee.com][6]       | Dec. 2013   |
-[Brian Beyke][21]       | yes      | [instagram.com][20]             | Apr. 2016   | Brian also runs the podcast [*I Brew My Own Coffee*][22].
+[Brian Beyke][21]       | yes      | [instagram.com][20]             | Apr. 2016   | Brian runs the podcast [*I Brew My Own Coffee*][22].
 Brewing is for Everyone | yes      | [brewingisforeveryone.com][32]  | May 2016    |
 Brick & Mortar Coffee   | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014   | Pressing out air before steeping is unique.
 Clifton Coffee Roasters | no       | [youtube.com][39]               | Sept. 2014  | Makes coffee for 2.  Plunging into hot water is different.
@@ -27,7 +27,7 @@ Jesse Gordon            | yes      | [jesse.jpg][16]                 |          
 Kanji Ino               | no       | [kanji.jpg][17]                 |             | Included with Able Disk.
 Lukas Zahradnik         | yes      | [europeancoffeetrip.com][41]    | June 2015   | World AeroPress Championship 2015, 1st Place.  Also as [video][42].
 Marco Arment            | no       | [marco.org][18]                 | July 2012   | Iced coffee.
-Prima Coffee Equipment  | no       | [wistia.net (video)][14]        |             | Simplified version of Jesse Myers' recipe (Quills Coffee) in the Big Eastern Brewers Cup.
+Prima Coffee Equipment  | no       | [wistia.net (video)][14]        |             | Simplified version of Jesse Myers' recipe (Quills Coffee) in Big Eastern Brewers Cup.
 Sightglass Coffee       | no       | [sightglasscoffee.com][28]      |             | Great illustrations.  Also available as a [video][29].
 Square Mile Coffee Roasters | no   | [squaremilecoffee.com][27]      |             |
 Stumptown               | no       | [stumptowncoffee.com][8]        | June 2015   |

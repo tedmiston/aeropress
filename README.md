@@ -21,6 +21,7 @@ Craft Coffee | yes | [craftcoffee.com][7] | Mar. 2014 |
 Crema Coffee Roasters | yes | [crema-coffee.com][23] | |
 Crema Coffee Roasters | yes | [crema-coffee.com][24] | | Iced coffee.
 Everyman Espresso | yes | [nytimes.com][37] | Oct. 2010 | Recipe is at the bottom of the article.
+Filip Kucharczyk | yes | [worldaeropresschampionship.com][44] | June 2016 | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.
 Has Bean | yes | [hasbean.co.uk][15] | | 80–85 °C = 176–185 °F.
 Heart Coffee | no | [heartroasters.com][33] | Nov. 2013 | Also as [pdf][34] or [video][35].
 Jesse Gordon | yes | [jesse.jpg][16] | | Included with Able Disk Fine.
@@ -94,3 +95,5 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [40]: https://alternativebrewing.com.au/brew-tips/aeropress-brew-tips/
 [41]: http://europeancoffeetrip.com/how-to-make-aeropress-2015-champion/
 [42]: https://www.youtube.com/watch?v=m3wKJ0-WkDA
+[43]: http://cafetargowa.tumblr.com
+[44]: https://worldaeropresschampionship.com/2016/06/25/2016-world-aeropress-championship-results-recipes/

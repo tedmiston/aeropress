@@ -24,6 +24,7 @@ Everyman Espresso | yes | [nytimes.com][37] | Oct. 2010 | Recipe is at the botto
 Filip Kucharczyk | yes | [worldaeropresschampionship.com][44] | June 2016 | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.
 Has Bean | yes | [hasbean.co.uk][15] | | 80–85 °C = 176–185 °F.
 Heart Coffee | no | [heartroasters.com][33] | Nov. 2013 | Also as [pdf][34] or [video][35].
+Hugo Sousa Rocco | no | [worldaeropresschampionship.com][44] | June 2016 | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.
 Jerome Dittmar | no | [worldaeropresschampionship.com][44] | June 2016 | World AeroPress Championship 2016, 2nd Place.
 Jesse Gordon | yes | [jesse.jpg][16] | | Included with Able Disk Fine.
 Kanji Ino | no | [kanji.jpg][17] | | Included with Able Disk.
@@ -98,3 +99,4 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [42]: https://www.youtube.com/watch?v=m3wKJ0-WkDA
 [43]: http://cafetargowa.tumblr.com
 [44]: https://worldaeropresschampionship.com/2016/06/25/2016-world-aeropress-championship-results-recipes/
+[45]: http://mokaclube.com.br

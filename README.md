@@ -4,47 +4,47 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ## Guides
 
-Company or Person       | Inverted | Page                            | Published   | Comments
-----------------------: | :------: | ------------------------------- | ----------- | --------
-Aerobie                 | no       | [aerobie.com (pdf)][5]          | Mar. 2016   |
-Alan Adler              | no       | [wistia.net (video)][13]        |             | Official guide with commentary from AeroPress founder. Video by Prima Coffee.
-Alternative Brewing     | yes      | [alternativebrewing.com.au][40] |             | Multiple different brewing guides on one page; scroll to *Making an AeroPress Coffee – Inverted Method*.
-Blue Bottle             | yes      | [bluebottlecoffee.com][6]       | Dec. 2013   |
-[Brian Beyke][21]       | yes      | [instagram.com][20]             | Apr. 2016   | Brian runs the podcast [*I Brew My Own Coffee*][22].
-Brewing is for Everyone | yes      | [brewingisforeveryone.com][32]  | May 2016    |
-Brick & Mortar Coffee   | yes      | [brickandmortarcoffee.com][12]  | Aug. 2014   | Pressing out air before steeping is unique.
-Clifton Coffee Roasters | no       | [youtube.com][39]               | Sept. 2014  | Makes coffee for 2. Plunging into hot water is different.
-Coava Coffee            | yes      | [coavacoffee.com][36]           | Nov. 2013   |
-Coffee Supreme          | yes      | [shopify.com (pdf)][30]         |             | See pages 12–13. Also available as a [print book][31].
-Counter Culture Coffee  | yes      | [vimeo.com (video)][25]         | Sept. 2015  | Also available [in words][26].
-Craft Coffee            | yes      | [craftcoffee.com][7]            | Mar. 2014   |
-Crema Coffee Roasters   | yes      | [crema-coffee.com][23]          |             |
-Crema Coffee Roasters   | yes      | [crema-coffee.com][24]          |             | Iced coffee.
-Everyman Espresso       | yes      | [nytimes.com][37]               | Oct. 2010   | Recipe is at the bottom of the article.
-Has Bean                | yes      | [hasbean.co.uk][15]             |             | 80–85 °C = 176–185 °F.
-Heart Coffee            | no       | [heartroasters.com][33]         | Nov. 2013   | Also as [pdf][34] or [video][35].
-Jesse Gordon            | yes      | [jesse.jpg][16]                 |             | Included with Able Disk Fine.
-Kanji Ino               | no       | [kanji.jpg][17]                 |             | Included with Able Disk.
-Lukas Zahradnik         | yes      | [europeancoffeetrip.com][41]    | June 2015   | World AeroPress Championship 2015, 1st Place. Also as [video][42].
-Marco Arment            | no       | [marco.org][18]                 | July 2012   | Iced coffee.
-Prima Coffee Equipment  | no       | [wistia.net (video)][14]        |             | Simplified version of Jesse Myers' recipe (Quills Coffee) in Big Eastern Brewers Cup.
-Sightglass Coffee       | no       | [sightglasscoffee.com][28]      |             | Great illustrations. Also available as a [video][29].
-Square Mile Coffee Roasters | no   | [squaremilecoffee.com][27]      |             |
-Stumptown               | no       | [stumptowncoffee.com][8]        | June 2015   |
-Stumptown               | no       | [vimeo.com (video)][11]         | May 2015    |
-Stumptown               | yes      | [archive.org][9]                | Jan. 2013   | Stumptown recommended inverted [until switching][10] in 2015.
-The Coffee Collective   | yes      | [blogspot.com][38]              | Jan. 2010   | Inspired by Tim Wendelboe
-Tim Wendelboe           | no       | [timwendelboe.no][19]           | Oct. 2010   |
+Company or Person | Inverted | Page | Published | Comments
+---: | :---: | --- | --- | ---
+Aerobie | no | [aerobie.com (pdf)][5] | Mar. 2016 |
+Alan Adler | no | [wistia.net (video)][13] | | Official guide with commentary from AeroPress founder. Video by Prima Coffee.
+Alternative Brewing | yes | [alternativebrewing.com.au][40] | | Multiple different brewing guides on one page; scroll to *Making an AeroPress Coffee – Inverted Method*.
+Blue Bottle | yes | [bluebottlecoffee.com][6] | Dec. 2013 |
+[Brian Beyke][21] | yes | [instagram.com][20] | Apr. 2016 | Brian runs the podcast [*I Brew My Own Coffee*][22].
+Brewing is for Everyone | yes | [brewingisforeveryone.com][32] | May 2016 |
+Brick & Mortar Coffee | yes | [brickandmortarcoffee.com][12] | Aug. 2014 | Pressing out air before steeping is unique.
+Clifton Coffee Roasters | no | [youtube.com][39] | Sept. 2014 | Makes coffee for 2. Plunging into hot water is different.
+Coava Coffee | yes | [coavacoffee.com][36] | Nov. 2013 |
+Coffee Supreme | yes | [shopify.com (pdf)][30] | | See pages 12–13. Also available as a [print book][31].
+Counter Culture Coffee | yes | [vimeo.com (video)][25] | Sept. 2015 | Also available [in words][26].
+Craft Coffee | yes | [craftcoffee.com][7] | Mar. 2014 |
+Crema Coffee Roasters | yes | [crema-coffee.com][23] | |
+Crema Coffee Roasters | yes | [crema-coffee.com][24] | | Iced coffee.
+Everyman Espresso | yes | [nytimes.com][37] | Oct. 2010 | Recipe is at the bottom of the article.
+Has Bean | yes | [hasbean.co.uk][15] | | 80–85 °C = 176–185 °F.
+Heart Coffee | no | [heartroasters.com][33] | Nov. 2013 | Also as [pdf][34] or [video][35].
+Jesse Gordon | yes | [jesse.jpg][16] | | Included with Able Disk Fine.
+Kanji Ino | no | [kanji.jpg][17] | | Included with Able Disk.
+Lukas Zahradnik | yes | [europeancoffeetrip.com][41] | June 2015 | World AeroPress Championship 2015, 1st Place. Also as [video][42].
+Marco Arment | no | [marco.org][18] | July 2012 | Iced coffee.
+Prima Coffee Equipment | no | [wistia.net (video)][14] | | Simplified version of Jesse Myers' recipe (Quills Coffee) in Big Eastern Brewers Cup.
+Sightglass Coffee | no | [sightglasscoffee.com][28] | | Great illustrations. Also available as a [video][29].
+Square Mile Coffee Roasters | no | [squaremilecoffee.com][27] | |
+Stumptown | no | [stumptowncoffee.com][8] | June 2015 |
+Stumptown | no | [vimeo.com (video)][11] | May 2015 |
+Stumptown | yes | [archive.org][9] | Jan. 2013 | Stumptown recommended inverted [until switching][10] in 2015.
+The Coffee Collective | yes | [blogspot.com][38] | Jan. 2010 | Inspired by Tim Wendelboe
+Tim Wendelboe | no | [timwendelboe.no][19] | Oct. 2010 |
 
 ## Filters
 
-Company | Product                                          | Material | Comments
-------: | ------------------------------------------------ | :------: | --------
-Able    | [Disk Coffee Filter - Fine][1]                   | metal    | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard.
-Able    | [Disk Coffee Filter - Standard][1]               | metal    | Espresso grind [will clog it](https://marco.org/2012/01/11/aeropress-stainless-steel-filter).
-Able    | [Disk Coffee Filter (Gold Series) - Fine][2]     | metal    | Created for winners of barista competitions. Result is the same as the normal version.
-Able    | [Disk Coffee Filter (Gold Series) - Standard][2] | metal    |
-Aerobie | [Micro-Filters][3]                               | paper    | In blind taste tests, paper filters [were preferred][4] over metal.
+Company | Product | Material | Comments
+---: | --- | :---: | ---
+Able | [Disk Coffee Filter - Fine][1] | metal | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard.
+Able | [Disk Coffee Filter - Standard][1] | metal | Espresso grind [will clog it](https://marco.org/2012/01/11/aeropress-stainless-steel-filter).
+Able | [Disk Coffee Filter (Gold Series) - Fine][2] | metal | Created for winners of barista competitions. Result is the same as the normal version.
+Able | [Disk Coffee Filter (Gold Series) - Standard][2] | metal |
+Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were preferred][4] over metal.
 
 ## Misc.
 

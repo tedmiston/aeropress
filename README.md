@@ -31,6 +31,7 @@ Jesse Gordon | yes | [jesse.jpg][16] | | Included with Able Disk Fine.
 Kanji Ino | no | [kanji.jpg][17] | | Included with Able Disk.
 Lukas Zahradnik | yes | [europeancoffeetrip.com][41] | June 2015 | World AeroPress Championship 2015, 1st Place. Also as [video][42].
 Marco Arment | no | [marco.org][18] | July 2012 | Iced coffee.
+Market Lane Coffee | yes | [vimeo.com (video)][47] | Sept. 2012 |
 Prima Coffee Equipment | no | [wistia.net (video)][14] | | Simplified version of Jesse Myers' recipe (Quills Coffee) in Big Eastern Brewers Cup.
 Sightglass Coffee | no | [sightglasscoffee.com][28] | | Great illustrations. Also available as a [video][29].
 Square Mile Coffee Roasters | no | [squaremilecoffee.com][27] | |
@@ -102,3 +103,4 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [44]: https://worldaeropresschampionship.com/2016/06/25/2016-world-aeropress-championship-results-recipes/
 [45]: http://mokaclube.com.br
 [46]: https://www.instagram.com/p/BFmG8lYKoO7/
+[47]: https://vimeo.com/49006923

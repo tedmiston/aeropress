@@ -56,6 +56,7 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 - [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users.
 - [@chrisdrinkscoffee](http://instagram.com/chrisdrinkscoffee) - Shares a variety of recipes via Instagram posts.
 - [AeroPress "Ritual" (video)](https://vimeo.com/40980282) by Sandwich Video - No recipe, but production quality is high in this enjoyable tribute.
+- [Brew Methods](http://www.brewmethods.com) - A small collection of brew guides for Aeropress, Chemex, V60, and others.
 
 [1]: http://ablebrewing.com/products/disk-coffee-filter "Disk Coffee Filter Designed for AeroPress®"
 [2]: http://ablebrewing.com/products/gold-disk-coffee-filter-for-aeropress "Gold Disk Coffee Filter Designed for AeroPress®"

@@ -40,6 +40,7 @@ Stumptown | no | [vimeo.com (video)][11] | May 2015 |
 Stumptown | yes | [archive.org][9] | Jan. 2013 | Stumptown recommended inverted [until switching][10] in 2015.
 The Coffee Collective | yes | [blogspot.com][38] | Jan. 2010 | Inspired by Tim Wendelboe
 Tim Wendelboe | no | [timwendelboe.no][19] | Oct. 2010 |
+Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
 
 ## Filters
 
@@ -105,3 +106,4 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [45]: http://mokaclube.com.br
 [46]: https://www.instagram.com/p/BFmG8lYKoO7/
 [47]: https://vimeo.com/49006923
+[48]: http://walterscoffeeroastery.com/product.aspx?id=1

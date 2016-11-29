@@ -52,6 +52,10 @@ Able | [Disk Coffee Filter (Gold Series) - Fine][2] | metal | Created for winner
 Able | [Disk Coffee Filter (Gold Series) - Standard][2] | metal |
 Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were preferred][4] over metal.
 
+## Books
+
+- [The Annual][49] - A book of recipes, posters, interviews, etc from 2016 by World AeroPress Championship
+
 ## Misc.
 
 - [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users.
@@ -107,3 +111,4 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [46]: https://www.instagram.com/p/BFmG8lYKoO7/
 [47]: https://vimeo.com/49006923
 [48]: http://walterscoffeeroastery.com/product.aspx?id=1
+[49]: http://aero.press/the-annual

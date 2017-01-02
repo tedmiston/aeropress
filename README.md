@@ -5,6 +5,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 **Table of Contents**
 
 0. [Guides](#guides)
+0. [Contests](#contests)
 0. [Filters](#filters)
 0. [Books](#books)
 0. [Misc](#misc)
@@ -51,6 +52,11 @@ Stumptown | yes | [archive.org][9] | Jan. 2013 | Stumptown recommended inverted 
 The Coffee Collective | yes | [blogspot.com][38] | Jan. 2010 | Inspired by Tim Wendelboe
 Tim Wendelboe | no | [timwendelboe.no][19] | Oct. 2010 |
 Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
+
+<a href="#" id="contests"></a>
+## Contests
+
+TODO
 
 <a href="#" id="filters"></a>
 ## Filters

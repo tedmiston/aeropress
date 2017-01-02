@@ -64,6 +64,9 @@ Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
 |                              | 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]    |
 |                              |      | 2nd   | [Nick Hatch][wac-2015-2]         |
 |                              |      | 3rd   | [Kaye Joy Ong][wac-2015-3]       |
+|                              | 2014 | 1st   | [Shuichi Sasaki][wac-2014-1]     |
+|                              |      | 2nd   | [Martin Karabinos][wac-2014-2]   |
+|                              |      | 3rd   | [Jeff Verellen][wac-2014-3]      |
 
 <a href="#" id="filters"></a>
 ## Filters
@@ -139,6 +142,9 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [48]: http://walterscoffeeroastery.com/product.aspx?id=1
 [49]: http://aero.press/the-annual
 
+[wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
+[wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/
+[wac-2014-3]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos-1/
 [wac-2015-1]: http://www.worldaeropresschampionship.com/recipes/#/lukas-zahradnik/
 [wac-2015-2]: http://www.worldaeropresschampionship.com/recipes/#/nick-hatch/
 [wac-2015-3]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/

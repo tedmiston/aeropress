@@ -4,15 +4,15 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 **Table of Contents**
 
-0. [Guides](#guides1)
-0. [Contests](#contests1)
-0. [Filters](#filters1)
-0. [Books](#books1)
-0. [Misc](#misc1)
+0. [Guides](#guides)
+0. [Contests](#contests)
+0. [Filters](#filters)
+0. [Books](#books)
+0. [Misc](#misc)
 
 ---
 
-<a href="#" id="guides1"></a>
+<a href="#" id="guides"></a>
 ## Guides
 
 Company or Person | Inverted | Page | Published | Comments
@@ -53,7 +53,7 @@ The Coffee Collective | yes | [blogspot.com][38] | Jan. 2010 | Inspired by Tim W
 Tim Wendelboe | no | [timwendelboe.no][19] | Oct. 2010 |
 Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
 
-<a href="#" id="contests1"></a>
+<a href="#" id="contests"></a>
 ## Contests
 
 ### World AeroPress Championship
@@ -70,7 +70,7 @@ Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
 |      | 2nd   | [Martin Karabinos][wac-2014-2]   |
 |      | 3rd   | [Jeff Verellen][wac-2014-3]      |
 
-<a href="#" id="filters1"></a>
+<a href="#" id="filters"></a>
 ## Filters
 
 Company | Product | Material | Comments
@@ -81,12 +81,12 @@ Able | [Disk Coffee Filter (Gold Series) - Fine][2] | metal | Created for winner
 Able | [Disk Coffee Filter (Gold Series) - Standard][2] | metal |
 Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were preferred][4] over metal.
 
-<a href="#" id="books1"></a>
+<a href="#" id="books"></a>
 ## Books
 
 - [The Annual][49] - A book of recipes, posters, interviews, etc from 2016 by World AeroPress Championship
 
-<a href="#" id="misc1"></a>
+<a href="#" id="misc"></a>
 ## Misc
 
 - [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users.

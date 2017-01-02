@@ -61,6 +61,9 @@ Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
 | World AeroPress Championship | 2016 | 1st   | [Filip Kucharczyk][wac-2016-all] |
 |                              |      | 2nd   | [Jerome Dittmar][wac-2016-all]   |
 |                              |      | 3rd   | [Hugo Sousa Rocco][wac-2016-all] |
+|                              | 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]    |
+|                              |      | 2nd   | [Nick Hatch][wac-2015-2]         |
+|                              |      | 3rd   | [Kaye Joy Ong][wac-2015-3]       |
 
 <a href="#" id="filters"></a>
 ## Filters
@@ -136,4 +139,7 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [48]: http://walterscoffeeroastery.com/product.aspx?id=1
 [49]: http://aero.press/the-annual
 
+[wac-2015-1]: http://www.worldaeropresschampionship.com/recipes/#/lukas-zahradnik/
+[wac-2015-2]: http://www.worldaeropresschampionship.com/recipes/#/nick-hatch/
+[wac-2015-3]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
 [wac-2016-all]: https://worldaeropresschampionship.wordpress.com/2016/06/25/2016-world-aeropress-championship-results-recipes/

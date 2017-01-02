@@ -56,17 +56,19 @@ Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
 <a href="#" id="contests"></a>
 ## Contests
 
-| Contest                      | Year | Place | Winning Recipe                   |
-| ---------------------------- | ---- | ----- | -------------------------------- |
-| World AeroPress Championship | 2016 | 1st   | [Filip Kucharczyk][wac-2016-all] |
-|                              |      | 2nd   | [Jerome Dittmar][wac-2016-all]   |
-|                              |      | 3rd   | [Hugo Sousa Rocco][wac-2016-all] |
-|                              | 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]    |
-|                              |      | 2nd   | [Nick Hatch][wac-2015-2]         |
-|                              |      | 3rd   | [Kaye Joy Ong][wac-2015-3]       |
-|                              | 2014 | 1st   | [Shuichi Sasaki][wac-2014-1]     |
-|                              |      | 2nd   | [Martin Karabinos][wac-2014-2]   |
-|                              |      | 3rd   | [Jeff Verellen][wac-2014-3]      |
+### World AeroPress Championship
+
+| Year | Place | Winning Recipe                   |
+| ---- | ----- | -------------------------------- |
+| 2016 | 1st   | [Filip Kucharczyk][wac-2016-all] |
+|      | 2nd   | [Jerome Dittmar][wac-2016-all]   |
+|      | 3rd   | [Hugo Sousa Rocco][wac-2016-all] |
+| 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]    |
+|      | 2nd   | [Nick Hatch][wac-2015-2]         |
+|      | 3rd   | [Kaye Joy Ong][wac-2015-3]       |
+| 2014 | 1st   | [Shuichi Sasaki][wac-2014-1]     |
+|      | 2nd   | [Martin Karabinos][wac-2014-2]   |
+|      | 3rd   | [Jeff Verellen][wac-2014-3]      |
 
 <a href="#" id="filters"></a>
 ## Filters

@@ -83,6 +83,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 |    Able | [Gold Disk][2]      |  metal   |                                                                                        |
 |    Able | [Gold Disk Fine][2] |  metal   | Created for winners of barista competitions. Result is the same as the normal version. |
 | Aerobie | [Micro-Filters][3]  |  paper   | In blind taste tests, paper filters [were preferred][4] over metal.                    |
+| SSW Japan | [Metal Filter][52] | metal | As sold by Tim Wendelboe and others. [Popular in Japan.][53] |
 
 <a href="#" id="books"></a>
 
@@ -150,6 +151,8 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [49]: http://aero.press/the-annual
 [50]: https://marco.org/2012/01/11/aeropress-stainless-steel-filter
 [51]: http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews
+[52]: https://www.timwendelboe.no/accessories/aeropress-metal-filter
+[53]: http://sprudge.com/japan-aeropress-championship-2013-38154.html
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/

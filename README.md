@@ -15,43 +15,43 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 <a href="#" id="guides"></a>
 ## Guides
 
-Company or Person | Inverted | Page | Published | Comments
+Company or Person | Inverted | Recipe | Published | Comments
 ---: | :---: | --- | --- | ---
-Aerobie | no | [aerobie.com (pdf)][5] | Mar. 2016 |
-Alan Adler | no | [wistia.net (video)][13] | | Official guide with commentary from AeroPress founder. Video by Prima Coffee.
-Alternative Brewing | yes | [alternativebrewing.com.au][40] | | Multiple different brewing guides on one page; scroll to *Making an AeroPress Coffee – Inverted Method*.
-Blue Bottle | yes | [bluebottlecoffee.com][6] | Dec. 2013 |
-[Brian Beyke][21] | yes | [instagram.com][20] | Apr. 2016 | Brian runs the podcast [*I Brew My Own Coffee*][22].
-Brewing is for Everyone | yes | [brewingisforeveryone.com][32] | May 2016 |
-Brick & Mortar Coffee | yes | [brickandmortarcoffee.com][12] | Aug. 2014 | Pressing out air before steeping is unique.
-Chris Drinks Coffee | yes | [instagram.com][46] | May 2016 |
-Clifton Coffee Roasters | no | [youtube.com][39] | Sept. 2014 | Makes coffee for 2. Plunging into hot water is different.
-Coava Coffee | yes | [coavacoffee.com][36] | Nov. 2013 |
-Coffee Supreme | yes | [shopify.com (pdf)][30] | | See pages 12–13. Also available as a [print book][31].
-Counter Culture Coffee | yes | [vimeo.com (video)][25] | Sept. 2015 | Also available [in words][26].
-Craft Coffee | yes | [craftcoffee.com][7] | Mar. 2014 |
-Crema Coffee Roasters | yes | [crema-coffee.com][23] | |
-Crema Coffee Roasters | yes | [crema-coffee.com][24] | | Iced coffee.
-Everyman Espresso | yes | [nytimes.com][37] | Oct. 2010 | Recipe is at the bottom of the article.
-Filip Kucharczyk | yes | [worldaeropresschampionship.com][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.
-Has Bean | yes | [hasbean.co.uk][15] | | 80–85 °C = 176–185 °F.
-Heart Coffee | no | [heartroasters.com][33] | Nov. 2013 | Also as [pdf][34] or [video][35].
-Hugo Sousa Rocco | no | [worldaeropresschampionship.com][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.
-Jerome Dittmar | no | [worldaeropresschampionship.com][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 2nd Place.
-Jesse Gordon | yes | [jesse.jpg][16] | | Included with Able Disk Fine.
-Kanji Ino | no | [kanji.jpg][17] | | Included with Able Disk.
-Lukas Zahradnik | yes | [europeancoffeetrip.com][41] | June 2015 | World AeroPress Championship 2015, 1st Place. Also as [video][42].
-Marco Arment | no | [marco.org][18] | July 2012 | Iced coffee.
-Market Lane Coffee | yes | [vimeo.com (video)][47] | Sept. 2012 |
-Prima Coffee Equipment | no | [wistia.net (video)][14] | | Simplified version of Jesse Myers' recipe (Quills Coffee) in Big Eastern Brewers Cup.
-Sightglass Coffee | no | [sightglasscoffee.com][28] | | Great illustrations. Also available as a [video][29].
-Square Mile Coffee Roasters | no | [squaremilecoffee.com][27] | |
-Stumptown | no | [stumptowncoffee.com][8] | June 2015 |
-Stumptown | no | [vimeo.com (video)][11] | May 2015 |
-Stumptown | yes | [archive.org][9] | Jan. 2013 | Stumptown recommended inverted [until switching][10] in 2015.
-The Coffee Collective | yes | [blogspot.com][38] | Jan. 2010 | Inspired by Tim Wendelboe
-Tim Wendelboe | no | [timwendelboe.no][19] | Oct. 2010 |
-Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
+Aerobie | no | [open (pdf)][5] | Mar. 2016 |
+Alan Adler | no | [open (video)][13] | | Official guide with commentary from AeroPress founder. Video by Prima Coffee.
+Alternative Brewing | yes | [open (webpage)][40] | | Multiple different brewing guides on one page; scroll to *Making an AeroPress Coffee – Inverted Method*.
+Blue Bottle | yes | [open (webpage)][6] | Dec. 2013 |
+[Brian Beyke][21] | yes | [open (webpage)][20] | Apr. 2016 | Brian runs the podcast [*I Brew My Own Coffee*][22].
+Brewing is for Everyone | yes | [open (webpage)][32] | May 2016 |
+Brick & Mortar Coffee | yes | [open (webpage)][12] | Aug. 2014 | Pressing out air before steeping is unique.
+Chris Drinks Coffee | yes | [open (webpage)][46] | May 2016 |
+Clifton Coffee Roasters | no | [open (video)][39] | Sept. 2014 | Makes coffee for 2. Plunging into hot water is different.
+Coava Coffee | yes | [open (webpage)][36] | Nov. 2013 |
+Coffee Supreme | yes | [open (pdf)][30] | | See pages 12–13. Also available as a [print book][31].
+Counter Culture Coffee | yes | [open (video)][25] | Sept. 2015 | Also available [in words][26].
+Craft Coffee | yes | [open (webpage)][7] | Mar. 2014 |
+Crema Coffee Roasters | yes | [open (webpage)][23] | |
+Crema Coffee Roasters | yes | [open (webpage)][24] | | Iced coffee.
+Everyman Espresso | yes | [open (webpage)][37] | Oct. 2010 | Recipe is at the bottom of the article.
+Filip Kucharczyk | yes | [open (webpage)][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.
+Has Bean | yes | [open (webpage)][15] | | 80–85 °C = 176–185 °F.
+Heart Coffee | no | [open (webpage)][33] | Nov. 2013 | Also as [pdf][34] or [video][35].
+Hugo Sousa Rocco | no | [open (webpage)][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.
+Jerome Dittmar | no | [open (webpage)][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 2nd Place.
+Jesse Gordon | yes | [open (image)][16] | | Included with Able Disk Fine.
+Kanji Ino | no | [open (image)][17] | | Included with Able Disk.
+Lukas Zahradnik | yes | [open (webpage)][41] | June 2015 | World AeroPress Championship 2015, 1st Place. Also as [video][42].
+Marco Arment | no | [open (webpage)][18] | July 2012 | Iced coffee.
+Market Lane Coffee | yes | [open (video)][47] | Sept. 2012 |
+Prima Coffee Equipment | no | [open (video)][14] | | Simplified version of Jesse Myers' recipe (Quills Coffee) in Big Eastern Brewers Cup.
+Sightglass Coffee | no | [open (webpage)][28] | | Great illustrations. Also available as a [video][29].
+Square Mile Coffee Roasters | no | [open (webpage)][27] | |
+Stumptown | no | [open (webpage)][8] | June 2015 |
+Stumptown | no | [open (video)][11] | May 2015 |
+Stumptown | yes | [open (webpage)][9] | Jan. 2013 | Stumptown recommended inverted [until switching][10] in 2015.
+The Coffee Collective | yes | [open (webpage)][38] | Jan. 2010 | Inspired by Tim Wendelboe
+Tim Wendelboe | no | [open (webpage)][19] | Oct. 2010 |
+Walter's Coffee Roastery | no | [open (webpage)][48] | |
 
 <a href="#" id="contests"></a>
 ## Contests

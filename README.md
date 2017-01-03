@@ -17,7 +17,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 ## Guides
 
 | Company or Person           | Inverted | Recipe               | Published  | Comments                                                                                                 |
-| --------------------------- | -------- | -------------------- | ---------- | -------------------------------------------------------------------------------------------------------- |
+|:----------------------------|:---------|:---------------------|:-----------|:---------------------------------------------------------------------------------------------------------|
 | Aerobie                     | no       | [open (pdf)][5]      | Mar. 2016  |                                                                                                          |
 | Alan Adler                  | no       | [open (video)][13]   |            | Official guide with commentary from AeroPress founder. Video by Prima Coffee.                            |
 | Alternative Brewing         | yes      | [open (webpage)][40] |            | Multiple different brewing guides on one page; scroll to *Making an AeroPress Coffee – Inverted Method*. |
@@ -61,7 +61,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 ### World AeroPress Championship
 
 | Year | Place | Winning Recipe                 |
-| ---- | ----- | ------------------------------ |
+|:-----|:------|:-------------------------------|
 | 2016 | 1st   | [Filip Kucharczyk][44]         |
 |      | 2nd   | [Jerome Dittmar][44]           |
 |      | 3rd   | [Hugo Sousa Rocco][44]         |
@@ -77,7 +77,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 ## Filters
 
 | Company | Product                                          | Material | Comments                                                                                                              |
-| ------: | :----------------------------------------------- | :------: | :-------------------------------------------------------------------------------------------------------------------- |
+|--------:|:-------------------------------------------------|:--------:|:----------------------------------------------------------------------------------------------------------------------|
 |    Able | [Disk Coffee Filter - Fine][1]                   |  metal   | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard. |
 |    Able | [Disk Coffee Filter - Standard][1]               |  metal   | Espresso grind [will clog it](https://marco.org/2012/01/11/aeropress-stainless-steel-filter).                         |
 |    Able | [Disk Coffee Filter (Gold Series) - Fine][2]     |  metal   | Created for winners of barista competitions. Result is the same as the normal version.                                |

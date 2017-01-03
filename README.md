@@ -72,6 +72,20 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 |      | 2nd   | [Martin Karabinos][wac-2014-2] |
 |      | 3rd   | [Jeff Verellen][wac-2014-3]    |
 
+### US AeroPress Championship
+
+| Year | Place | Winning Recipe         |
+|:-----|:------|:-----------------------|
+| 2016 | 1st   | [Ben Jones][56]        |
+|      | 2nd   | [Mike Cannon][56]      |
+|      | 3rd   | [Nelson Icenhower][56] |
+| 2015 | 1st   | Rusty Obra             |
+|      | 2nd   | Joe Drazenovich        |
+|      | 3rd   | Kevin Rosenkranz       |
+| 2014 | 1st   | Jeremy Moore           |
+|      | 2nd   | Brendon Glidden        |
+|      | 3rd   | Andrew Bettis          |
+
 <a href="#" id="filters"></a>
 
 ## Filters
@@ -157,6 +171,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [53]: http://sprudge.com/japan-aeropress-championship-2013-38154.html
 [54]: http://rustyshawaiian.com/shop/merchandise/rusty-obras-championship-aeropress-filter/
 [55]: http://www.kaffeologie.com
+[56]: http://sprudge.com/ben-jones-is-your-2016-us-aeropress-champion-98324.html
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/

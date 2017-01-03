@@ -83,6 +83,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | [Able Gold Disk][2]          |  metal   |                                                                                        |
 | [Able Gold Disk Fine][2]     |  metal   | Created for winners of barista competitions. Result is the same as the normal version. |
 | [Aerobie Micro-Filters][3]   |  paper   | In blind taste tests, paper filters [were preferred][4] over metal.                    |
+| [Kaffeologie S Filter][55] | metal | |
 | [Rusty's Hawaiian filter][54] |  metal | Used by Rusty Obra, winner of the 2015 US AeroPress Championship. |
 | [SSW Japan Metal Filter][52] |  metal   | As sold by Tim Wendelboe and others. [Popular in Japan.][53]                           |
 
@@ -155,6 +156,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [52]: https://www.timwendelboe.no/accessories/aeropress-metal-filter
 [53]: http://sprudge.com/japan-aeropress-championship-2013-38154.html
 [54]: http://rustyshawaiian.com/shop/merchandise/rusty-obras-championship-aeropress-filter/
+[55]: http://www.kaffeologie.com
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/

@@ -76,13 +76,13 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ## Filters
 
-| Company | Product                                          | Material | Comments                                                                                                              |
-|--------:|:-------------------------------------------------|:--------:|:----------------------------------------------------------------------------------------------------------------------|
-|    Able | [Disk Coffee Filter - Fine][1]                   |  metal   | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard. |
-|    Able | [Disk Coffee Filter - Standard][1]               |  metal   | Espresso grind [will clog it](https://marco.org/2012/01/11/aeropress-stainless-steel-filter).                         |
-|    Able | [Disk Coffee Filter (Gold Series) - Fine][2]     |  metal   | Created for winners of barista competitions. Result is the same as the normal version.                                |
-|    Able | [Disk Coffee Filter (Gold Series) - Standard][2] |  metal   |                                                                                                                       |
-| Aerobie | [Micro-Filters][3]                               |  paper   | In blind taste tests, paper filters [were preferred][4] over metal.                                                   |
+| Company | Product             | Material | Comments                                                                                                              |
+|--------:|:--------------------|:--------:|:----------------------------------------------------------------------------------------------------------------------|
+|    Able | [Disk][1]           |  metal   | Espresso grind [will clog it](https://marco.org/2012/01/11/aeropress-stainless-steel-filter).                         |
+|    Able | [Disk Fine][1]      |  metal   | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard. |
+|    Able | [Gold Disk][2]      |  metal   |                                                                                                                       |
+|    Able | [Gold Disk Fine][2] |  metal   | Created for winners of barista competitions. Result is the same as the normal version.                                |
+| Aerobie | [Micro-Filters][3]  |  paper   | In blind taste tests, paper filters [were preferred][4] over metal.                                                   |
 
 <a href="#" id="books"></a>
 

@@ -78,8 +78,8 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 | Company | Product             | Material | Comments                                                                                                              |
 |--------:|:--------------------|:--------:|:----------------------------------------------------------------------------------------------------------------------|
-|    Able | [Disk][1]           |  metal   | Espresso grind [will clog it](https://marco.org/2012/01/11/aeropress-stainless-steel-filter).                         |
-|    Able | [Disk Fine][1]      |  metal   | Preserves oils and reduces sediment [vs.](http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews) Disk Standard. |
+|    Able | [Disk][1]           |  metal   | Espresso grind [will clog it][50].                         |
+|    Able | [Disk Fine][1]      |  metal   | Preserves oils and reduces sediment [vs.][51] Disk Standard. |
 |    Able | [Gold Disk][2]      |  metal   |                                                                                                                       |
 |    Able | [Gold Disk Fine][2] |  metal   | Created for winners of barista competitions. Result is the same as the normal version.                                |
 | Aerobie | [Micro-Filters][3]  |  paper   | In blind taste tests, paper filters [were preferred][4] over metal.                                                   |
@@ -148,6 +148,8 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [47]: https://vimeo.com/49006923
 [48]: http://walterscoffeeroastery.com/product.aspx?id=1
 [49]: http://aero.press/the-annual
+[50]: https://marco.org/2012/01/11/aeropress-stainless-steel-filter
+[51]: http://ablebrewing.com/blogs/news/6087708-disk-fine-reviews
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/

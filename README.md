@@ -34,11 +34,11 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Crema Coffee Roasters       | yes      | [open (webpage)][23]           |            |                                                                                                          |
 | Crema Coffee Roasters       | yes      | [open (webpage)][24]           |            | Iced coffee.                                                                                             |
 | Everyman Espresso           | yes      | [open (webpage)][37]           | Oct. 2010  | Recipe is at the bottom of the article.                                                                  |
-| Filip Kucharczyk            | yes      | [open (webpage)][wac-2016-all] | June 2016  | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.                  |
+| Filip Kucharczyk            | yes      | [open (webpage)][44] | June 2016  | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.                  |
 | Has Bean                    | yes      | [open (webpage)][15]           |            | 80–85 °C = 176–185 °F.                                                                                   |
 | Heart Coffee                | no       | [open (webpage)][33]           | Nov. 2013  | Also as [pdf][34] or [video][35].                                                                        |
-| Hugo Sousa Rocco            | no       | [open (webpage)][wac-2016-all] | June 2016  | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.                   |
-| Jerome Dittmar              | no       | [open (webpage)][wac-2016-all] | June 2016  | World AeroPress Championship 2016, 2nd Place.                                                            |
+| Hugo Sousa Rocco            | no       | [open (webpage)][44] | June 2016  | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.                   |
+| Jerome Dittmar              | no       | [open (webpage)][44] | June 2016  | World AeroPress Championship 2016, 2nd Place.                                                            |
 | Jesse Gordon                | yes      | [open (image)][16]             |            | Included with Able Disk Fine.                                                                            |
 | Kanji Ino                   | no       | [open (image)][17]             |            | Included with Able Disk.                                                                                 |
 | Lukas Zahradnik             | yes      | [open (webpage)][41]           | June 2015  | World AeroPress Championship 2015, 1st Place. Also as [video][42].                                       |
@@ -62,9 +62,9 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 | Year | Place | Winning Recipe                   |
 | ---- | ----- | -------------------------------- |
-| 2016 | 1st   | [Filip Kucharczyk][wac-2016-all] |
-|      | 2nd   | [Jerome Dittmar][wac-2016-all]   |
-|      | 3rd   | [Hugo Sousa Rocco][wac-2016-all] |
+| 2016 | 1st   | [Filip Kucharczyk][44] |
+|      | 2nd   | [Jerome Dittmar][44]   |
+|      | 3rd   | [Hugo Sousa Rocco][44] |
 | 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]    |
 |      | 2nd   | [Nick Hatch][wac-2015-2]         |
 |      | 3rd   | [Kaye Joy Ong][wac-2015-3]       |
@@ -142,6 +142,7 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [41]: http://europeancoffeetrip.com/how-to-make-aeropress-2015-champion/
 [42]: https://www.youtube.com/watch?v=m3wKJ0-WkDA
 [43]: http://cafetargowa.tumblr.com
+[44]: https://worldaeropresschampionship.wordpress.com/2016/06/25/2016-world-aeropress-championship-results-recipes/
 [45]: http://mokaclube.com.br
 [46]: https://www.instagram.com/p/BFmG8lYKoO7/
 [47]: https://vimeo.com/49006923
@@ -154,4 +155,3 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [wac-2015-1]: http://www.worldaeropresschampionship.com/recipes/#/lukas-zahradnik/
 [wac-2015-2]: http://www.worldaeropresschampionship.com/recipes/#/nick-hatch/
 [wac-2015-3]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
-[wac-2016-all]: https://worldaeropresschampionship.wordpress.com/2016/06/25/2016-world-aeropress-championship-results-recipes/

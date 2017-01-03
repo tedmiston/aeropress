@@ -76,14 +76,14 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ## Filters
 
-| Company | Product             | Material | Comments                                                                               |
-|--------:|:--------------------|:--------:|:---------------------------------------------------------------------------------------|
-|    Able | [Disk][1]           |  metal   | Espresso grind [will clog it][50].                                                     |
-|    Able | [Disk Fine][1]      |  metal   | Preserves oils and reduces sediment [vs.][51] Disk Standard.                           |
-|    Able | [Gold Disk][2]      |  metal   |                                                                                        |
-|    Able | [Gold Disk Fine][2] |  metal   | Created for winners of barista competitions. Result is the same as the normal version. |
-| Aerobie | [Micro-Filters][3]  |  paper   | In blind taste tests, paper filters [were preferred][4] over metal.                    |
-| SSW Japan | [Metal Filter][52] | metal | As sold by Tim Wendelboe and others. [Popular in Japan.][53] |
+| Name                         | Material | Comments                                                                               |
+|:-----------------------------|:--------:|:---------------------------------------------------------------------------------------|
+| [Able Disk][1]               |  metal   | Espresso grind [will clog it][50].                                                     |
+| [Able Disk Fine][1]          |  metal   | Preserves oils and reduces sediment [vs.][51] Disk Standard.                           |
+| [Able Gold Disk][2]          |  metal   |                                                                                        |
+| [Able Gold Disk Fine][2]     |  metal   | Created for winners of barista competitions. Result is the same as the normal version. |
+| [Aerobie Micro-Filters][3]   |  paper   | In blind taste tests, paper filters [were preferred][4] over metal.                    |
+| [SSW Japan Metal Filter][52] |  metal   | As sold by Tim Wendelboe and others. [Popular in Japan.][53]                           |
 
 <a href="#" id="books"></a>
 

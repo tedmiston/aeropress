@@ -4,15 +4,16 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 **Table of Contents**
 
-0. [Guides](#guides)
-0. [Contests](#contests)
-0. [Filters](#filters)
-0. [Books](#books)
-0. [Misc](#misc)
+1. [Guides](#guides)
+1. [Contests](#contests)
+1. [Filters](#filters)
+1. [Books](#books)
+1. [Misc](#misc)
 
 ---
 
 <a href="#" id="guides"></a>
+
 ## Guides
 
 Company or Person | Inverted | Recipe | Published | Comments
@@ -54,6 +55,7 @@ Tim Wendelboe | no | [open (webpage)][19] | Oct. 2010 |
 Walter's Coffee Roastery | no | [open (webpage)][48] | |
 
 <a href="#" id="contests"></a>
+
 ## Contests
 
 ### World AeroPress Championship
@@ -71,6 +73,7 @@ Walter's Coffee Roastery | no | [open (webpage)][48] | |
 |      | 3rd   | [Jeff Verellen][wac-2014-3]      |
 
 <a href="#" id="filters"></a>
+
 ## Filters
 
 Company | Product | Material | Comments
@@ -82,11 +85,13 @@ Able | [Disk Coffee Filter (Gold Series) - Standard][2] | metal |
 Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were preferred][4] over metal.
 
 <a href="#" id="books"></a>
+
 ## Books
 
 - [The Annual][49] - A book of recipes, posters, interviews, etc from 2016 by World AeroPress Championship
 
 <a href="#" id="misc"></a>
+
 ## Misc
 
 - [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users.

@@ -5,6 +5,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 **Table of Contents**
 
 0. [Guides](#guides)
+0. [Contests](#contests)
 0. [Filters](#filters)
 0. [Books](#books)
 0. [Misc](#misc)
@@ -32,11 +33,11 @@ Craft Coffee | yes | [craftcoffee.com][7] | Mar. 2014 |
 Crema Coffee Roasters | yes | [crema-coffee.com][23] | |
 Crema Coffee Roasters | yes | [crema-coffee.com][24] | | Iced coffee.
 Everyman Espresso | yes | [nytimes.com][37] | Oct. 2010 | Recipe is at the bottom of the article.
-Filip Kucharczyk | yes | [worldaeropresschampionship.com][44] | June 2016 | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.
+Filip Kucharczyk | yes | [worldaeropresschampionship.com][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 1st Place. Of [Cafe Targowa][43] in Wrocław, Poland.
 Has Bean | yes | [hasbean.co.uk][15] | | 80–85 °C = 176–185 °F.
 Heart Coffee | no | [heartroasters.com][33] | Nov. 2013 | Also as [pdf][34] or [video][35].
-Hugo Sousa Rocco | no | [worldaeropresschampionship.com][44] | June 2016 | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.
-Jerome Dittmar | no | [worldaeropresschampionship.com][44] | June 2016 | World AeroPress Championship 2016, 2nd Place.
+Hugo Sousa Rocco | no | [worldaeropresschampionship.com][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.
+Jerome Dittmar | no | [worldaeropresschampionship.com][wac-2016-all] | June 2016 | World AeroPress Championship 2016, 2nd Place.
 Jesse Gordon | yes | [jesse.jpg][16] | | Included with Able Disk Fine.
 Kanji Ino | no | [kanji.jpg][17] | | Included with Able Disk.
 Lukas Zahradnik | yes | [europeancoffeetrip.com][41] | June 2015 | World AeroPress Championship 2015, 1st Place. Also as [video][42].
@@ -51,6 +52,23 @@ Stumptown | yes | [archive.org][9] | Jan. 2013 | Stumptown recommended inverted 
 The Coffee Collective | yes | [blogspot.com][38] | Jan. 2010 | Inspired by Tim Wendelboe
 Tim Wendelboe | no | [timwendelboe.no][19] | Oct. 2010 |
 Walter's Coffee Roastery | no | [walterscoffeeroastery.com][48] | |
+
+<a href="#" id="contests"></a>
+## Contests
+
+### World AeroPress Championship
+
+| Year | Place | Winning Recipe                   |
+| ---- | ----- | -------------------------------- |
+| 2016 | 1st   | [Filip Kucharczyk][wac-2016-all] |
+|      | 2nd   | [Jerome Dittmar][wac-2016-all]   |
+|      | 3rd   | [Hugo Sousa Rocco][wac-2016-all] |
+| 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]    |
+|      | 2nd   | [Nick Hatch][wac-2015-2]         |
+|      | 3rd   | [Kaye Joy Ong][wac-2015-3]       |
+| 2014 | 1st   | [Shuichi Sasaki][wac-2014-1]     |
+|      | 2nd   | [Martin Karabinos][wac-2014-2]   |
+|      | 3rd   | [Jeff Verellen][wac-2014-3]      |
 
 <a href="#" id="filters"></a>
 ## Filters
@@ -119,9 +137,16 @@ Aerobie | [Micro-Filters][3] | paper | In blind taste tests, paper filters [were
 [41]: http://europeancoffeetrip.com/how-to-make-aeropress-2015-champion/
 [42]: https://www.youtube.com/watch?v=m3wKJ0-WkDA
 [43]: http://cafetargowa.tumblr.com
-[44]: https://worldaeropresschampionship.com/2016/06/25/2016-world-aeropress-championship-results-recipes/
 [45]: http://mokaclube.com.br
 [46]: https://www.instagram.com/p/BFmG8lYKoO7/
 [47]: https://vimeo.com/49006923
 [48]: http://walterscoffeeroastery.com/product.aspx?id=1
 [49]: http://aero.press/the-annual
+
+[wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
+[wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/
+[wac-2014-3]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos-1/
+[wac-2015-1]: http://www.worldaeropresschampionship.com/recipes/#/lukas-zahradnik/
+[wac-2015-2]: http://www.worldaeropresschampionship.com/recipes/#/nick-hatch/
+[wac-2015-3]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
+[wac-2016-all]: https://worldaeropresschampionship.wordpress.com/2016/06/25/2016-world-aeropress-championship-results-recipes/

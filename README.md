@@ -100,6 +100,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | [Kaffeologie S Filter][55]    |  metal   |                                                                                        |
 | [Rusty's Hawaiian filter][54] |  metal   | Used by Rusty Obra, winner of the 2015 US AeroPress Championship.                      |
 | [SSW Japan Metal Filter][52]  |  metal   | As sold by Tim Wendelboe and others. [Popular in Japan.][53]                           |
+| [Ten Mile Stainless Steel][57] | metal | |
 
 <a href="#" id="books"></a>
 
@@ -172,6 +173,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [54]: http://rustyshawaiian.com/shop/merchandise/rusty-obras-championship-aeropress-filter/
 [55]: http://www.kaffeologie.com
 [56]: http://sprudge.com/ben-jones-is-your-2016-us-aeropress-champion-98324.html
+[57]: https://alternativebrewing.com.au/product/ten-mile-stainless-steel-aeropress-filter/
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/

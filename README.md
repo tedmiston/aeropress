@@ -106,10 +106,10 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ## Misc
 
-- [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users.
-- [@chrisdrinkscoffee](http://instagram.com/chrisdrinkscoffee) - Shares a variety of recipes via Instagram posts.
-- [AeroPress "Ritual" (video)](https://vimeo.com/40980282) by Sandwich Video - No recipe, but production quality is high in this enjoyable tribute.
-- [Brew Methods](http://www.brewmethods.com) - A small collection of brew guides for Aeropress, Chemex, V60, and others.
+- [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users
+- [@chrisdrinkscoffee](http://instagram.com/chrisdrinkscoffee) - Shares a variety of recipes via Instagram posts
+- [AeroPress "Ritual" (video)](https://vimeo.com/40980282) by Sandwich Video - No recipe, but production quality is high in this enjoyable tribute
+- [Brew Methods](http://www.brewmethods.com) - A small collection of brew guides for Aeropress, Chemex, V60, and others
 - [The Annual][49] - A book of recipes, posters, interviews, etc from 2016 by World AeroPress Championship
 
 [1]: http://ablebrewing.com/products/disk-coffee-filter "Disk Coffee Filter Designed for AeroPress®"

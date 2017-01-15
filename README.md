@@ -2,7 +2,7 @@
 
 A collection of recipes for the many possible ways to brew coffee with an AeroPress.
 
-**Table of Contents**
+**Contents**
 
 1. [Guides](#guides)
 1. [Contests](#contests)

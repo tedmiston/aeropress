@@ -137,7 +137,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [23]: http://www.crema-coffee.com/brewing-guide-aeropress
 [24]: http://www.crema-coffee.com/brewing-guide-iced-aeropress
 [25]: https://vimeo.com/140715216
-[26]: https://counterculturecoffee.com/learn/quick-easy-aeropress
+[26]: https://counterculturecoffee.com/learn/brewing-guides/aeropress
 [27]: http://shop.squaremilecoffee.com/products/aeropress
 [28]: https://sightglasscoffee.com/brewing-guides/aeropress
 [29]: https://vimeo.com/62908498

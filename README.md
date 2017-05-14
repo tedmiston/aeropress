@@ -4,14 +4,12 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 **Contents**
 
-1. [Guides](#guides)
-1. [Contests](#contests)
-1. [Filters](#filters)
-1. [Related](#related)
+1. [Guides](#user-content-guides)
+1. [Contests](#user-content-contests)
+1. [Filters](#user-content-filters)
+1. [Related](#user-content-related)
 
 ---
-
-<a href="#" id="guides"></a>
 
 ## Guides
 
@@ -53,8 +51,6 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Tim Wendelboe               | no       | [open (webpage)][19] | Oct. 2010  |                                                                                                          |
 | Walter's Coffee Roastery    | no       | [open (webpage)][48] |            |                                                                                                          |
 
-<a href="#" id="contests"></a>
-
 ## Contests
 
 ### World AeroPress Championship
@@ -85,8 +81,6 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 |      | 2nd   | Brendon Glidden        |
 |      | 3rd   | Andrew Bettis          |
 
-<a href="#" id="filters"></a>
-
 ## Filters
 
 | Name                                | Comments                                                                               |
@@ -101,8 +95,6 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | [Rusty's Hawaiian filter][54]       | Used by Rusty Obra, winner of the 2015 US AeroPress Championship.                      |
 | [SSW Japan Metal Filter][52]        | As sold by Tim Wendelboe and others. [Popular in Japan.][53]                           |
 | [Ten Mile Stainless Steel][57]      |                                                                                        |
-
-<a href="#" id="misc"></a>
 
 ## Related
 

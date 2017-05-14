@@ -7,7 +7,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 1. [Guides](#guides)
 1. [Contests](#contests)
 1. [Filters](#filters)
-1. [Misc](#misc)
+1. [Related](#related)
 
 ---
 
@@ -104,7 +104,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 <a href="#" id="misc"></a>
 
-## Misc
+## Related
 
 - [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users
 - [@chrisdrinkscoffee](http://instagram.com/chrisdrinkscoffee) - Shares a variety of recipes via Instagram posts

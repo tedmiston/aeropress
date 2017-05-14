@@ -25,7 +25,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Chris Drinks Coffee         | yes      | [open (webpage)][46] | May 2016   |                                                                                                          |
 | Clifton Coffee Roasters     | no       | [open (video)][39]   | Sept. 2014 | Makes coffee for 2. Plunging into hot water is different.                                                |
 | Coava Coffee                | yes      | [open (webpage)][36] | Nov. 2013  |                                                                                                          |
-| Coffee Supreme              | yes      | [open (pdf)][30]     |            | See pages 12–13. Also available as a [print book][31].                                                   |
+| Coffee Supreme              | yes      | [open (pdf)][30]     |            | See pages 12–13. Also available as an [eBook][31].                                                   |
 | Counter Culture Coffee      | yes      | [open (video)][25]   | Sept. 2015 | Also available [in words][26].                                                                           |
 | Craft Coffee                | yes      | [open (webpage)][7]  | Mar. 2014  |                                                                                                          |
 | Crema Coffee Roasters       | yes      | [open (webpage)][23] |            |                                                                                                          |
@@ -48,7 +48,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Stumptown                   | no       | [open (video)][11]   | May 2015   |                                                                                                          |
 | Stumptown                   | yes      | [open (webpage)][9]  | Jan. 2013  | Stumptown recommended inverted [until switching][10] in 2015.                                            |
 | The Coffee Collective       | yes      | [open (webpage)][38] | Jan. 2010  | Inspired by Tim Wendelboe                                                                                |
-| Tim Wendelboe               | no       | [open (webpage)][19] | Oct. 2010  |                                                                                                          |
+| Tim Wendelboe               | no       | [open (webpage)][19] | Oct. 2010  | Also available as a [video][59].                                                                         |
 | Walter's Coffee Roastery    | no       | [open (webpage)][48] |            |                                                                                                          |
 
 ## Contests
@@ -122,7 +122,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [16]: /images/able-brewing/jesse.jpg
 [17]: /images/able-brewing/kanji.jpg
 [18]: https://marco.org/2012/07/30/iced-coffee-with-aeropress
-[19]: https://www.timwendelboe.no/aeropress-brewing-guide
+[19]: https://www.timwendelboe.no/brewing-guides/aeropress
 [20]: https://www.instagram.com/p/BED8FEphwKZ/
 [21]: https://www.instagram.com/abandoncoffee/
 [22]: http://www.ibrewmyowncoffee.com/
@@ -134,7 +134,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [28]: https://sightglasscoffee.com/brewing-guides/aeropress
 [29]: https://vimeo.com/62908498
 [30]: http://cdn.shopify.com/s/files/1/0172/5642/files/Brew_Guide_Online_version.pdf?12092
-[31]: https://www.coffeesupremeshop.com/products/brew-guide-by-coffee-supreme
+[31]: https://www.coffeesupremeshop.com/products/digital-brew-guide-by-coffee-supreme
 [32]: http://www.brewingisforeveryone.com/blog/inverted-aeropress
 [33]: http://www.heartroasters.com/pages/aeropress
 [34]: https://cdn.shopify.com/s/files/1/0261/3485/files/aeropress.pdf
@@ -162,6 +162,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [56]: http://sprudge.com/ben-jones-is-your-2016-us-aeropress-champion-98324.html
 [57]: https://alternativebrewing.com.au/product/ten-mile-stainless-steel-aeropress-filter/
 [58]: http://kohilabs.com/kohi-filter-for-aeropress/
+[59]: https://vimeo.com/204862900
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/

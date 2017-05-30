@@ -25,7 +25,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Chris Drinks Coffee         | yes      | [open (webpage)][46] | May 2016   |                                                                                                          |
 | Clifton Coffee Roasters     | no       | [open (video)][39]   | Sept. 2014 | Makes coffee for 2. Plunging into hot water is different.                                                |
 | Coava Coffee                | yes      | [open (webpage)][36] | Nov. 2013  |                                                                                                          |
-| Coffee Supreme              | yes      | [open (pdf)][30]     |            | See pages 12–13. Also available as an [eBook][31].                                                   |
+| Coffee Supreme              | yes      | [open (pdf)][30]     |            | See pages 12–13. Also available as an [eBook][31].                                                       |
 | Counter Culture Coffee      | yes      | [open (video)][25]   | Sept. 2015 | Also available [in words][26].                                                                           |
 | Craft Coffee                | yes      | [open (webpage)][7]  | Mar. 2014  |                                                                                                          |
 | Crema Coffee Roasters       | yes      | [open (webpage)][23] |            |                                                                                                          |

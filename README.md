@@ -37,8 +37,8 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Hugo Sousa Rocco            | no       | [open (webpage)][44]   | June 2016  | World AeroPress Championship 2016, 3rd Place. Of [Moka Clube][45] in Curitiba, Brazil.                   |
 | Jerome Dittmar              | no       | [open (webpage)][44]   | June 2016  | World AeroPress Championship 2016, 2nd Place.                                                            |
 | Jesse Gordon                | yes      | [open (image)][16]     |            | Included with Able Disk Fine.                                                                            |
-| Kaffeologie #1              | no       | [open (slideshow)][61] |            | Uses the Kaffeologie S Filter.                                                                           |
-| Kaffeologie #2              | yes      | [open (slideshow)][62] | Nov. 2013  | Uses the Kaffeologie S Filter.                                                                           |
+| Kaffeologie                 | no       | [open (slideshow)][61] |            | Uses the Kaffeologie S Filter.                                                                           |
+| Kaffeologie                 | yes      | [open (slideshow)][62] | Nov. 2013  | Uses the Kaffeologie S Filter.                                                                           |
 | Kanji Ino                   | no       | [open (image)][17]     |            | Included with Able Disk.                                                                                 |
 | Lukas Zahradnik             | yes      | [open (webpage)][41]   | June 2015  | World AeroPress Championship 2015, 1st Place. Also as [video][42].                                       |
 | Marco Arment                | no       | [open (webpage)][18]   | July 2012  | Iced coffee.                                                                                             |

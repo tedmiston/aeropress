@@ -47,6 +47,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Stumptown                   | no       | [open (webpage)][8]  | June 2015  |                                                                                                          |
 | Stumptown                   | no       | [open (video)][11]   | May 2015   |                                                                                                          |
 | Stumptown                   | yes      | [open (webpage)][9]  | Jan. 2013  | Stumptown recommended inverted [until switching][10] in 2015.                                            |
+| The Coffee Chaser           | yes      | [open (webpage)][60] |            |                                                                                                          |
 | The Coffee Collective       | yes      | [open (webpage)][38] | Jan. 2010  | Inspired by Tim Wendelboe                                                                                |
 | Tim Wendelboe               | no       | [open (webpage)][19] | Oct. 2010  | Also available as a [video][59].                                                                         |
 | Walter's Coffee Roastery    | no       | [open (webpage)][48] |            |                                                                                                          |
@@ -163,6 +164,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [57]: https://alternativebrewing.com.au/product/ten-mile-stainless-steel-aeropress-filter/
 [58]: http://kohilabs.com/kohi-filter-for-aeropress/
 [59]: https://vimeo.com/204862900
+[60]: http://www.thecoffeechaser.com/brewguides/aeropress/
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/

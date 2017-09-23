@@ -13,7 +13,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ## Guides
 
-| Company or Person           | Inverted | Recipe                 | Published  | Comments                                                                                                 |
+| Company or Person           | Inverted | Recipe                 | Published  | Notes                                                                                                    |
 |:----------------------------|:---------|:-----------------------|:-----------|:---------------------------------------------------------------------------------------------------------|
 | Aerobie                     | no       | [open (pdf)][5]        | Mar. 2016  |                                                                                                          |
 | Alan Adler                  | no       | [open (video)][13]     |            | Official guide with commentary from AeroPress founder. Video by Prima Coffee.                            |
@@ -86,7 +86,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ## Filters
 
-| Name                                | Comments                                                                               |
+| Name                                | Notes                                                                                  |
 |:------------------------------------|:---------------------------------------------------------------------------------------|
 | [Able Disk][1]                      | Espresso grind [will clog it][50].                                                     |
 | [Able Disk Fine][1]                 | Preserves oils and reduces sediment [vs.][51] Disk Standard.                           |

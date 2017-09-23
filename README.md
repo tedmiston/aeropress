@@ -72,6 +72,8 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | 2013 | 1st   | [Jeff Verellen][wac-2009-2013-all] |
 |      | 2nd   | [Wille Yli-Luoma][wac-2009-2013-all] |
 |      | 3rd   | [Tibor Varady][wac-2009-2013-all] |
+| 2012 | 1st   | [Charlene De Buysere][wac-2009-2013-all] |
+|      | 2nd   | [Ingri M. Johnsen][wac-2009-2013-all] |
 
 ### US AeroPress Championship
 

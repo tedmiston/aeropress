@@ -69,6 +69,9 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | 2014 | 1st   | [Shuichi Sasaki][wac-2014-1]   |
 |      | 2nd   | [Martin Karabinos][wac-2014-2] |
 |      | 3rd   | [Jeff Verellen][wac-2014-3]    |
+| 2013 | 1st   | [Jeff Verellen][wac-2009-2013-all] |
+|      | 2nd   | [Wille Yli-Luoma][wac-2009-2013-all] |
+|      | 3rd   | [Tibor Varady][wac-2009-2013-all] |
 
 ### US AeroPress Championship
 
@@ -170,6 +173,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [61]: http://www.kaffeologie.com/s-filter-pour-over-for-aeropress-slideshow/
 [62]: http://www.kaffeologie.com/s-filter-aeropress-inverted-slideshow/
 
+[wac-2009-2013-all]: https://web.archive.org/web/20160624235556/https://worldaeropresschampionship.com/recipes/
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/
 [wac-2014-3]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos-1/

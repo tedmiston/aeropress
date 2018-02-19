@@ -188,9 +188,6 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [wac-2015-1]: http://www.worldaeropresschampionship.com/recipes/#/lukas-zahradnik/
 [wac-2015-2]: http://www.worldaeropresschampionship.com/recipes/#/nick-hatch/
 [wac-2015-3]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
-[wac-2016-1]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
-[wac-2016-2]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
-[wac-2016-3]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
 [wac-2017-1]: https://www.worldaeropresschampionship.com/recipes/#/paulina-miczka/
 [wac-2017-2]: https://www.worldaeropresschampionship.com/recipes/#/yusuke-narisawa/
 [wac-2017-3]: https://www.worldaeropresschampionship.com/recipes/#/jeongsu-park/

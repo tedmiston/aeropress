@@ -60,9 +60,12 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 | Year | Place | Winning Recipe                 |
 |:-----|:------|:-------------------------------|
-| 2016 | 1st   | [Filip Kucharczyk][44]         |
-|      | 2nd   | [Jerome Dittmar][44]           |
-|      | 3rd   | [Hugo Sousa Rocco][44]         |
+| 2017 | 1st   | [Paulina Miczka][wac-2017-1]   |
+|      | 2nd   | [Yusuke Narisawa][wac-2017-2]  |
+|      | 3rd   | [Jeongsu Park][wac-2017-3]     |
+| 2016 | 1st   | Filip Kucharczyk               |
+|      | 2nd   | Jerome Dittmar                 |
+|      | 3rd   | Hugo Sousa Rocco               |
 | 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]  |
 |      | 2nd   | [Nick Hatch][wac-2015-2]       |
 |      | 3rd   | [Kaye Joy Ong][wac-2015-3]     |
@@ -81,6 +84,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 | Year | Place | Winning Recipe         |
 |:-----|:------|:-----------------------|
+| 2017 | 1st   | Zach Perkins           |
 | 2016 | 1st   | [Ben Jones][56]        |
 |      | 2nd   | [Mike Cannon][56]      |
 |      | 3rd   | [Nelson Icenhower][56] |
@@ -158,7 +162,6 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [41]: http://europeancoffeetrip.com/how-to-make-aeropress-2015-champion/
 [42]: https://www.youtube.com/watch?v=m3wKJ0-WkDA
 [43]: http://cafetargowa.tumblr.com
-[44]: https://worldaeropresschampionship.wordpress.com/2016/06/25/2016-world-aeropress-championship-results-recipes/
 [45]: http://mokaclube.com.br
 [46]: https://www.instagram.com/p/BFmG8lYKoO7/
 [47]: https://vimeo.com/49006923
@@ -185,3 +188,6 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [wac-2015-1]: http://www.worldaeropresschampionship.com/recipes/#/lukas-zahradnik/
 [wac-2015-2]: http://www.worldaeropresschampionship.com/recipes/#/nick-hatch/
 [wac-2015-3]: http://www.worldaeropresschampionship.com/recipes/#/kaye-joy-ong/
+[wac-2017-1]: https://www.worldaeropresschampionship.com/recipes/#/paulina-miczka/
+[wac-2017-2]: https://www.worldaeropresschampionship.com/recipes/#/yusuke-narisawa/
+[wac-2017-3]: https://www.worldaeropresschampionship.com/recipes/#/jeongsu-park/

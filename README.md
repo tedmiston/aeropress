@@ -58,27 +58,27 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 
 ### World AeroPress Championship
 
-| Year | Place | Winning Recipe                 |
-|:-----|:------|:-------------------------------|
-| 2017 | 1st   | [Paulina Miczka][wac-2017-1]   |
-|      | 2nd   | [Yusuke Narisawa][wac-2017-2]  |
-|      | 3rd   | [Jeongsu Park][wac-2017-3]     |
-| 2016 | 1st   | Filip Kucharczyk               |
-|      | 2nd   | Jerome Dittmar                 |
-|      | 3rd   | Hugo Sousa Rocco               |
-| 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]  |
-|      | 2nd   | [Nick Hatch][wac-2015-2]       |
-|      | 3rd   | [Kaye Joy Ong][wac-2015-3]     |
-| 2014 | 1st   | [Shuichi Sasaki][wac-2014-1]   |
-|      | 2nd   | [Martin Karabinos][wac-2014-2] |
-|      | 3rd   | [Jeff Verellen][wac-2014-3]    |
-| 2013 | 1st   | [Jeff Verellen][wac-2009-2013-all] |
-|      | 2nd   | [Wille Yli-Luoma][wac-2009-2013-all] |
-|      | 3rd   | [Tibor Varady][wac-2009-2013-all] |
+| Year | Place | Winning Recipe                           |
+|:-----|:------|:-----------------------------------------|
+| 2017 | 1st   | [Paulina Miczka][wac-2017-1]             |
+|      | 2nd   | [Yusuke Narisawa][wac-2017-2]            |
+|      | 3rd   | [Jeongsu Park][wac-2017-3]               |
+| 2016 | 1st   | Filip Kucharczyk                         |
+|      | 2nd   | Jerome Dittmar                           |
+|      | 3rd   | Hugo Sousa Rocco                         |
+| 2015 | 1st   | [Lukas Zahradnik][wac-2015-1]            |
+|      | 2nd   | [Nick Hatch][wac-2015-2]                 |
+|      | 3rd   | [Kaye Joy Ong][wac-2015-3]               |
+| 2014 | 1st   | [Shuichi Sasaki][wac-2014-1]             |
+|      | 2nd   | [Martin Karabinos][wac-2014-2]           |
+|      | 3rd   | [Jeff Verellen][wac-2014-3]              |
+| 2013 | 1st   | [Jeff Verellen][wac-2009-2013-all]       |
+|      | 2nd   | [Wille Yli-Luoma][wac-2009-2013-all]     |
+|      | 3rd   | [Tibor Varady][wac-2009-2013-all]        |
 | 2012 | 1st   | [Charlene De Buysere][wac-2009-2013-all] |
-|      | 2nd   | [Ingri M. Johnsen][wac-2009-2013-all] |
-| 2011 | 1st   | [Jeff Verellen][wac-2009-2013-all] |
-|      | 2nd   | [Joshua Wismans][wac-2009-2013-all] |
+|      | 2nd   | [Ingri M. Johnsen][wac-2009-2013-all]    |
+| 2011 | 1st   | [Jeff Verellen][wac-2009-2013-all]       |
+|      | 2nd   | [Joshua Wismans][wac-2009-2013-all]      |
 
 ### US AeroPress Championship
 

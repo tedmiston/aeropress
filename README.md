@@ -40,6 +40,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Kaffeologie                 | no       | [open (slideshow)][61] |            | Uses the Kaffeologie S Filter.                                                                           |
 | Kaffeologie                 | yes      | [open (slideshow)][62] | Nov. 2013  | Uses the Kaffeologie S Filter.                                                                           |
 | Kanji Ino                   | no       | [open (image)][17]     |            | Included with Able Disk.                                                                                 |
+| Kruve                       | yes      | [open (video)][63]     | Jan. 2017  | Uses Kruve coffee sieves.                                                                                |
 | Lukas Zahradnik             | yes      | [open (webpage)][41]   | June 2015  | World AeroPress Championship 2015, 1st Place. Also as [video][42].                                       |
 | Marco Arment                | no       | [open (webpage)][18]   | July 2012  | Iced coffee.                                                                                             |
 | Market Lane Coffee          | yes      | [open (video)][47]     | Sept. 2012 |                                                                                                          |
@@ -180,6 +181,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [60]: http://www.thecoffeechaser.com/brewguides/aeropress/
 [61]: http://www.kaffeologie.com/s-filter-pour-over-for-aeropress-slideshow/
 [62]: http://www.kaffeologie.com/s-filter-aeropress-inverted-slideshow/
+[63]: https://www.kruveinc.com/pages/recipe-series
 
 [wac-2009-2013-all]: https://web.archive.org/web/20160624235556/https://worldaeropresschampionship.com/recipes/
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/

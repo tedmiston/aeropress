@@ -110,6 +110,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | [Rusty's Hawaiian filter][54]       | Used by Rusty Obra, winner of the 2015 US AeroPress Championship.                      |
 | [SSW Japan Metal Filter][52]        | As sold by Tim Wendelboe and others. [Popular in Japan.][53]                           |
 | [Ten Mile Stainless Steel][57]      |                                                                                        |
+| [ameuus micro filter][64]           | Kickstarter, ends 11/20/2018. Stainless steel.                                         |
 
 ## Related
 
@@ -182,6 +183,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [61]: http://www.kaffeologie.com/s-filter-pour-over-for-aeropress-slideshow/
 [62]: http://www.kaffeologie.com/s-filter-aeropress-inverted-slideshow/
 [63]: https://www.kruveinc.com/pages/recipe-series
+[64]: https://www.kickstarter.com/projects/ameuus/ameuus-micro-filters-specially-designed-for-the-ae
 
 [wac-2009-2013-all]: https://web.archive.org/web/20160624235556/https://worldaeropresschampionship.com/recipes/
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/

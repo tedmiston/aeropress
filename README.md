@@ -45,6 +45,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Marco Arment                | no       | [open (webpage)][18]   | July 2012  | Iced coffee.                                                                                             |
 | Market Lane Coffee          | yes      | [open (video)][47]     | Sept. 2012 |                                                                                                          |
 | Prima Coffee Equipment      | no       | [open (video)][14]     |            | Simplified version of Jesse Myers' recipe (Quills Coffee) in Big Eastern Brewers Cup.                    |
+| PuckPuck                    | no       | [open (webpage)][65]   | July 2018  | Add-on to make "ice brew" style cold brew coffee with the AeroPress.                                     |
 | Sightglass Coffee           | no       | [open (webpage)][28]   |            | Great illustrations. Also available as a [video][29].                                                    |
 | Square Mile Coffee Roasters | no       | [open (webpage)][27]   |            |                                                                                                          |
 | Stumptown                   | no       | [open (webpage)][8]    | June 2015  |                                                                                                          |
@@ -184,6 +185,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [62]: http://www.kaffeologie.com/s-filter-aeropress-inverted-slideshow/
 [63]: https://www.kruveinc.com/pages/recipe-series
 [64]: https://www.kickstarter.com/projects/ameuus/ameuus-micro-filters-specially-designed-for-the-ae
+[65]: https://puckpuck.me/pages/brew-guide
 
 [wac-2009-2013-all]: https://web.archive.org/web/20160624235556/https://worldaeropresschampionship.com/recipes/
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/

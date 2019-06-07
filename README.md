@@ -107,6 +107,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | [Able Gold Disk][2]                 |                                                                                        |
 | [Able Gold Disk Fine][2]            | Created for winners of barista competitions. Result is the same as the normal version. |
 | [Aerobie Micro-Filters][3]          | In blind taste tests, paper filters [were preferred][4] over metal.                    |
+| [Fellow Prismo][70]                 | A unique filter cap replacement with pressure actuated valve and built-in metal filter. |
 | [Kaffeologie S Filter][55]          |                                                                                        |
 | [KoHi Labs Metal Fabric Filter][58] |                                                                                        |
 | [Rusty's Hawaiian filter][54]       | Used by Rusty Obra, winner of the 2015 US AeroPress Championship.                      |
@@ -197,6 +198,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [67]: https://jimseven.com/
 [68]: https://www.youtube.com/watch?v=SHdXC_88_2g
 [69]: https://thewinniewu.github.io/aeropress-dice/
+[70]: https://fellowproducts.com/prismo/
 
 [wac-2009-2013-all]: https://web.archive.org/web/20160624235556/https://worldaeropresschampionship.com/recipes/
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/

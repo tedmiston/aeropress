@@ -7,6 +7,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 1. [Guides](#user-content-guides)
 1. [Contests](#user-content-contests)
 1. [Filters](#user-content-filters)
+1. [Other Products](#user-content-other-products)
 1. [Related](#user-content-related)
 
 ---
@@ -113,6 +114,12 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | [Ten Mile Stainless Steel][57]      |                                                                                        |
 | [ameuus micro filter][64]           | Kickstarter, ends 11/20/2018. Stainless steel.                                         |
 
+## Other Products
+
+| Name | Creator | Notes |
+|:-----|:--------|:------|
+| [Coffee Brewing Dice: AeroPress Edition][66] | [James Hoffmann][67] | Roll a set of five dice to determine your brewing recipe. There's also a [video][68], and an [unofficial web app][69]. |
+
 ## Related
 
 - [#mondayaeropressclub](http://mondayaeropress.club) - An Instagram community of AeroPress users
@@ -186,6 +193,10 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [63]: https://www.kruveinc.com/pages/recipe-series
 [64]: https://www.kickstarter.com/projects/ameuus/ameuus-micro-filters-specially-designed-for-the-ae
 [65]: https://puckpuck.me/pages/brew-guide
+[66]: https://shop.aero.press/products/brew-recipe-dice
+[67]: https://jimseven.com/
+[68]: https://www.youtube.com/watch?v=SHdXC_88_2g
+[69]: https://thewinniewu.github.io/aeropress-dice/
 
 [wac-2009-2013-all]: https://web.archive.org/web/20160624235556/https://worldaeropresschampionship.com/recipes/
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/

@@ -120,6 +120,7 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Name | Creator | Notes |
 |:-----|:--------|:------|
 | [Coffee Brewing Dice: AeroPress Edition][66] | [James Hoffmann][67] | Roll a set of five dice to determine your brewing recipe. There's also a [video][68], and an [unofficial web app][69]. |
+| [Delter Coffee Press][71] | [Mark Folker][72] / [Delter Coffee Tools][71] | It looks like an AeroPress but [works][73] [differently][75]. [More info][74]. |
 
 ## Related
 
@@ -199,6 +200,11 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [68]: https://www.youtube.com/watch?v=SHdXC_88_2g
 [69]: https://thewinniewu.github.io/aeropress-dice/
 [70]: https://fellowproducts.com/prismo/
+[71]: https://deltercoffee.com/
+[72]: https://twitter.com/thetrinityone
+[73]: https://dailycoffeenews.com/2019/02/25/the-delter-coffee-press-dcp-takes-the-plunge-with-public-debut/
+[74]: https://alternativebrewing.com.au/product/delter-coffee-press/
+[75]: https://www.kickstarter.com/projects/1884122297/delter-coffee-press-faster-cleaner-and-better-tast
 
 [wac-2009-2013-all]: https://web.archive.org/web/20160624235556/https://worldaeropresschampionship.com/recipes/
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
